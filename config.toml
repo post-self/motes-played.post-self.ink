@@ -1,0 +1,20 @@
+baseURL = 'https://motes-played.post-self.ink/'
+languageCode = 'en-us'
+title = 'Motes Played'
+theme = 'maddybook'
+paginatePath = ""
+disablePathToLower = true
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = '2024'
+    subtitle = 'A Post-Self Story'
+    subtitleLink = 'https://post-self.ink'
+    customCSS = ['/css/motes-played.css']
+
+[markup.goldmark.renderer]
+    unsafe = true

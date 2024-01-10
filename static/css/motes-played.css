@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Gotu&display=swap');
+
+body, main {
+    font-family: "Gentium Plus", serif;
+}
+
+h1, h2, h3 {
+    font-family: "Gotu", sans-serif;
+}
+
+blockquote {
+    overflow-wrap: break-word;
+}
+
+main.story .author, main.story .character, main.story h3 {
+    font-family: "Gotu", sans-serif !important;
+    text-align: center !important;
+}
+
+.spoiler {
+    filter: blur(1rem);
+}
+
+.spoiler:hover {
+    filter: none;
+}
+
+.spoiler-warn::before {
+    vertical-align: top;
+    content: '(spoiler)';
+    font-size: 50%;
+    color: red;
+}
+ul {
+    list-style-type: revert;
+    padding-left: 2rem;
+}
+
+.hero {
+    font-family: "Gentium Plus", serif;
+    font-size: 18pt;
+    line-height: 1.5;
+    color: #444444;
+    margin-bottom: 1rem;
+    background: url(/img/hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-color: #fafafa;
+}
+
+.hero ul {
+    font-size: 20pt;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
+}
+
+.hero ul li {
+    margin: 1rem 0;
+    padding: 0;
+}
+
+.carousel nav {
+        height: 5rem;
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        z-index: 1000;
+}
+
+.carousel nav ul {
+    list-style-type: none;
+    border-bottom: 1px solid #555;
+    padding: 0;
+}
+
+.carousel nav li {
+    display: inline-block;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+.carousel nav li.on {
+    background-color: #555;
+}
+.carousel nav li.on a {
+    color: #fff !important;
+}
+
+.carousel nav li a {
+    text-decoration: none;
+    font-size: 16pt;
+}
+
+.carousel .carousel-item {
+    display: none;
+}
+
+.carousel .carousel-item.on {
+    display: block;
+}
+
+main.story .author, main.story .character, main.story h3 {
+    font-family: "Gotu", sans-serif !important;
+    text-align: center !important;
+}
+    
+@media only screen and (max-width: 960px) {
+    .carousel nav {
+            display: none;
+    }
+
+    .carousel .carousel-item {
+        display: block;
+        width: 100%;
+    }
+    .carousel .carousel-item h2 {
+        display: block !important;
+    }
+}
+
+@media (max-device-width: 450px) {
+    .nav-desktop {
+        display: none;
+    }
+    .nav-mobile {
+        display: inline-block;
+    }
+    nav ul li {
+        padding-bottom: 0.5rem !important;
+    }
+}

@@ -1,0 +1,3 @@
+[submodule "themes/maddybook"]
+	path = themes/maddybook
+	url = https://github.com/makyo/maddybook
