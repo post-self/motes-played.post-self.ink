@@ -4,6 +4,6 @@
 > 
 > She played with fire.
 > 
-> Motes played, because how could she do otherwise?
+> Motes played, because how could she not?
 
 ***Coming soon!***
