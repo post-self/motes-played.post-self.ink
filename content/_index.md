@@ -1,3 +1,15 @@
+---
+---
+
+<style>
+img {
+    margin: 2rem auto !important;
+    width: 80% !important;
+}
+</style>
+
+![A Little Book for Little Skunks](/littlebook.png)
+
 > Motes played.
 > 
 > She played because she *was* play. She played because that was her role in life, because that is just who she was. She played with color, played with life, played with death.
