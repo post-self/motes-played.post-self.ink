@@ -122,6 +122,7 @@ summary {
     font-style: italic;
     text-decoration: underline;
     margin-top: 1rem;
+    cursor: pointer;
 }
     
 @media only screen and (max-width: 960px) {
