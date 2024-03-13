@@ -61,8 +61,6 @@ Honestly, I have little desire to do so. It is not out of a desire to be a kid, 
 
 I wanted to play with the whole idea, too: I wanted to play with the sorts of uncomfortable feelings that many experience when confronted with adults engaging with the world as children. I wanted to talk about how someone who spends so much time in little space deals with the fact that others hate her guts for it.
 
-<details><summary>Some thoughts on big feelings and resentment</summary>
-
 ## Now, about those big feelings...
 
 I do not need to wonder whether the reaction to *Motes Played* will involve big feelings from others. Such has already been proven to me before it was even published.
@@ -87,9 +85,9 @@ But even if it were instructive, what are the lessons to be taken away from the 
 
 And here are the lessons that it does ***not*** teach:
 
-* **It is okay to groom children, even if those children are adults.** Motes explicitly avoids this and trusts others to help find the ones she cannot see.
+* **It is somehow, in some bizarro universe, okay to groom children, even if those children are adults.** Motes explicitly avoids this and trusts others to help find the ones she cannot see.
 
-Usually, I am stuck on the number three being used to prove points — hendiatris! — but I am not even going to bother including two more points, because this is the only one that has been (and I suspect will be) raised as a concern, even at the expense of any other issues presented within the book. Motes also has a death kink that one of her not-parents loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom lookin' HOA president ass bitch[^makefun] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
+Usually, I am stuck on the number three being used to prove points — hendiatris! — but I am not even going to bother including two more points, because this is the only one that has been (and I suspect will be) raised as a concern, even at the expense of any other issues presented within the book. Motes also has a death kink that one of her not-parents loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom-lookin', HOA-president-ass bitch[^makefun] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
 
 <figure>
     <img src="/hammered-silver.png">
@@ -104,7 +102,7 @@ It is my *right,* however, to defend myself and my work.
 
 If I sound a bit bitter, it is because I am, and it is something I will not apologize for, despite my people-pleasing tendencies.
 
-I began this pile of thoughts by talking about my initial discomfort with the idea of publishing this thing that I wrote. Since then, I have been struck with the occasional flash of such discomfort, but more and more often, I have been struck with a sense of pride. I *like* what I have accomplished. I like that I wrote in this vaguely children's book style. I like that we get Odists interacting with Odists, and that even the narration is written in (admittedly somewhat gentled) Odespeak. I like that I had the chance to lean into not only [my own plurality](https://makyo.is/plural) (Motes, Beholden, and Dry Grass being headmates) but [my partner's](https://cohost.org/hamratza) (A Finger Pointing and Warmth). I like that I got to explore the more populous areas of the System through someone other than the relatively shut-in Bălans. I like that I had the chance to lean into this topic, even! It is fulfilling to write something emotional and difficult.
+I began this pile of thoughts by talking about my initial discomfort with the idea of publishing this thing that I wrote. Since then, I have been struck with the occasional flash of such discomfort, but more and more often, I have been struck with a sense of pride. I *like* what I have accomplished. I like that I wrote in this vaguely children's book style. I like that we get Odists interacting with Odists, and that even the narration is written in (admittedly somewhat gentled) Odespeak. I like that I had the chance to lean into not only [my own plurality](https://makyo.is/plural) (Motes, Beholden, Slow Hours, and Dry Grass being headmates) but [my partner's](https://cohost.org/hamratza) (A Finger Pointing and Warmth). I like that I got to explore the more populous areas of the System through someone other than the relatively shut-in Bălans. I like that I had the chance to lean into this topic, even! It is fulfilling to write something emotional and difficult.
 
 If I sound bitter, it is because I have made something that I enjoy and yet also feel compelled to defend.
 
@@ -114,13 +112,16 @@ I resent that the oft-misused "death of the author" is only applied to the works
 
 I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of whether or not that is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing like this body and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that I will lose readers, friends, partners.
 
+It is, as Motes puts it, annihilation. It is the opposite of validation. It is taking all that is good and making it not just bad, but reprehensible. It is taking things that one enjoys and not making them less enjoyable, but making them shameful.
+
+I resent that.
+
 <figure>
     <img src="/this-is-what-happens.gif">
     <figcaption>This is what happens when Motes encounters annihilation.</figcaption>
 </figure>
 
 If I sound bitter, it is because I am proud of what I have made, and I want to share it.
-</details>
 
 ## That aside...
 
