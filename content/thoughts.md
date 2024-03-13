@@ -4,7 +4,7 @@ title: Thoughts on Motes
 
 *Motes Played* was written in a few short weeks at the end of December, 2023 and the beginning of January, 2024 in a burst of creativity. The origin for the story actually stems from a conversation that I had with my partner on a drive from visiting eir parents down in Vancouver back home to northern Washington. In the span of about four hours, we made our way down through the stanzas of the Ode clade and spoke about what make them tick.
 
-There are some known quantities. True Name is the politician, Praiseworthy is the propaganda turned arts administrator, A Finger Pointing is the theatrician, and so on. All of the stanzas have been labeled with their basic ideas, of course, and one of those was Hammered Silver being the center of all of Michelle's feelings on motherhood.
+There are some known quantities. True Name is the politician, A Finger Pointing is the theatrician, Praiseworthy is the propagandis turned arts administrator, and so on. All of the stanzas have been labeled with their basic ideas, of course, and one of those was Hammered Silver being the center of all of Michelle's feelings on motherhood.
 
 What exactly does that mean, though? How does that play out in her head and her heart?
 
@@ -15,7 +15,7 @@ However, we wanted to toy with those feelings of motherhood more directly. How d
 * **Good side:** Hammered Silver is keenly focused on family dynamics as a whole and ensuring that these remain supportive in a place. This was expanded after the advent of AVEC, where she campaigned to help keep families united after a member uploaded.
 * **Bad side:** This problem was expanded vertically to include a rather prescriptive definition of family as she bought thoroughly into the taboo on intraclade relationships, leading her to view family dynamics within clades with distrust and anger.
 
-Well, we already know that there are intraclade relationships sys-side. There always have been, of course, though not always out in public. There have even been intraclade relationships within the Ode clade (and beyond just the stated examples in the Cycle), between Beholden and A Finger Pointing.
+Well, we already know that there are intraclade relationships sys-side. There always have been, of course, though not always out in public. There have even been intraclade relationships within the Ode clade (and beyond just the stated examples in the Cycle), such as between Beholden and A Finger Pointing.
 
 Not only that, but there were already family dynamics in the clade, with Motes treating A Finger Pointing and Beholden as her parents, Slow Hours as her sister, A Finger Curled and Beholden To The Music Of The Spheres (two long-lived up-trees of A Finger Pointing and Beholden) as her weird gay aunts, and Dry Grass as Ma 2.0.
 
@@ -40,7 +40,7 @@ I knew that the response would be complicated, that it would make readers uncomf
 
 ## Okay, but why a kid?
 
-There are a few reasons that I wrote this book. First and foremost is simply that it was fun. I love the approach that a lot of children's books take with language. All of that repetition lends an almost hypnotic air. You keep reading the same idea over and over being stated in different ways with different antecedents and each one adds a little bit more color to the situation. They slowly change the mood of whatever they are building toward. It is alluring as a writer.
+There are a few reasons why I wrote this book. First and foremost is simply that it was fun. I love the approach that a lot of children's books take with language. All of that repetition lends an almost hypnotic air. You keep reading the same idea over and over being stated in different ways with different antecedents and each one adds a little bit more color to the situation. They slowly change the mood of whatever they are building toward. It is alluring as a writer.
 
 It was also fun to play around with all of the differences that spring up through cladistics. We know Dear is the best worst fox and May Then My Name is a cuddlebug and True Name is a politician and E.W. is a Sad Boi, but if we start prowling through the other stanzas, what do we find?
 
@@ -52,7 +52,7 @@ This includes all sorts of different aspects of personality. A Finger Pointing r
 
 Finally, I have been fascinated with the idea of childhood for years. It is not the supposed purity of it, nor is it necessarily that my own was bad. What it *was,* though, is less than ideal. It feels like my childhood is something that happened to someone else. It is a thing that happened to Matthew, not to Madison. I never got to live a childhood as Madison, good *or* bad.
 
-Honestly, I have little desire to do so. It is not out of a desire to be a kid, myself, that I wrote *Motes Played.* I wrote it because that idea in particular — that someone would wish to just...go be a kid because they can and because it felt good — is fascinating to me. Motes decided that her role was to be the kid, and so she leaned hard into that.
+Honestly, I have little desire to do so now. It is not out of a desire to be a literal kid, myself, that I wrote *Motes Played.* I wrote it because that idea in particular — that someone would wish to just...go be a kid because they can and because it felt good — is fascinating to me. Motes decided that her role was to be the kid, the One Who Plays, and so she leaned hard into that.
 
 <figure>
     <img src="/criminal.png">
@@ -106,11 +106,11 @@ I began this pile of thoughts by talking about my initial discomfort with the id
 
 If I sound bitter, it is because I have made something that I enjoy and yet also feel compelled to defend.
 
-I resent that I will have my personhood negated when I am declared problematic, a groomer, a pedophile, *persona non grata.* I resent that I do not need to consider whether I will be labeled these things; I know I will. I mentioned above that I have already had that conversation, leading to someone stepping back from the Post-Self community.
+I resent that I will have my personhood negated when I am declared problematic, a groomer, a pedophile, *persona non grata.* I resent that I do not need to consider whether I will be labeled these things; I know I will. I mentioned above that I have already had that conversation. It led to someone stepping back from the Post-Self community.[^welcome]
 
 I resent that the oft-misused "death of the author" is only applied to the works one enjoys, and so in this case, I will be reduced to my roughest edges and discarded. The work that I put into it will be ignored in the face of this one fact regardless on my feelings of what I have accomplished.
 
-I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of whether or not that is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing like this body and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that I will lose readers, friends, partners.
+I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that that is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing like this body and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that I risk lose readers, friends, partners.
 
 It is, as Motes puts it, annihilation. It is the opposite of validation. It is taking all that is good and making it not just bad, but reprehensible. It is taking things that one enjoys and not making them less enjoyable, but making them shameful.
 
@@ -135,4 +135,7 @@ As usual, it will be available as an ebook, a paperback, and free to read online
 </figure>
 
 [^sciatica]: Okay, but having sciatica for two months probably helped.
+
 [^makefun]: I am contractually obligated to make fun of her. It is part of being an author.
+
+[^welcome]: Which is valid! Curate your engagement. Stay healthy with your media consumption. The Post-Self community explicitly welcomes a come-and-go, curation-friendly approach in all our spaces.
