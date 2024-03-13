@@ -116,6 +116,13 @@ figure img {
     display: block;
     margin: 0 auto;
 }
+
+summary {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 1rem;
+}
     
 @media only screen and (max-width: 960px) {
     .carousel nav {
