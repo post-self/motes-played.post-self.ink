@@ -46,7 +46,7 @@ It was also fun to play around with all of the differences that spring up throug
 
 Well, we know that A Finger Pointing is a theatrician. She is one of the administrators of Au Lieu Du Rêve, the little troupe she started in the early days of the System, but which has grown to a group several hundred strong. This speaks to all sorts of roles that one might pick up, some of them informed by their names and some not. Beholden gets to deal with all of the sound and music, If I Stand Still deals with lights, and Motes gets sets and props
 
-It goes beyond interests or chosen profession (or, well, """profession"""; this *is* the System, after all). Years bring with them individuation, and each of these cladists begin to shift as well. Just as May Then My Name is not True Name, neither is Motes A Finger Pointing. A lot can change over time.
+It goes beyond interests or chosen profession (or, well, “““profession”””; this *is* the System, after all). Years bring with them individuation, and each of these cladists begin to shift as well. Just as May Then My Name is not True Name, neither is Motes A Finger Pointing. A lot can change over time.
 
 This includes all sorts of different aspects of personality. A Finger Pointing remains her flamboyant, dramatic self just as Motes leans hard into these feelings of childhood. I wanted to explore something like this in more detail.
 
