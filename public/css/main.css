@@ -1,0 +1,377 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, tt, var,
+b, u, i, center,
+/*dl, dt, dd, ol, ul, li,*/
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+header, footer {
+    margin: 0 auto;
+    max-width: 640px;
+    font-size: 16pt;
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom:1px solid rgba(0, 0, 0, 0.1);
+}
+header {
+    border-top: none;
+    padding-bottom: 1rem;
+}
+footer {
+    padding: 1rem 0;
+    margin-top: 1rem;
+    border-bottom: none;
+    font-family: 'Gentium Plus', serif;
+}
+header a, header a:visited, header a:active, header a:hover {
+    color: #222;
+    text-decoration: none;
+}
+h1 small {
+    display: block;
+    font-size: 50%;
+}
+.title ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.title ul li {
+    margin: 1rem 0;
+    padding: 0;
+}
+.title ul li p:first-of-type {
+    font-size: 20pt;
+    text-align: center;
+}
+.title ul li p {
+    text-indent: 0;
+    text-align: justify;
+}
+.title blockquote:first-of-type {
+    font-style: italic;
+}
+.order {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+.order a {
+    display: inline-block;
+    margin: 0.5rem;
+}
+ul.pagination {
+    margin: 1rem 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+li.page-item {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+li.page-item a {
+    padding: 0 0.5rem;
+    margin: 0;
+}
+li.page-item.active a {
+    font-style: italic;
+    text-decoration: none;
+}
+dl {
+    margin: 1rem 0;
+}
+dt {
+    text-decoration: underline;
+}
+dd {
+    margin: 0 0 1rem 2rem;
+}
+pre, code {
+    font-size: 14pt;
+    background-color: #eee;
+    border: 0px solid #eee;
+    border-radius: 2px;
+    padding: 0 1px;
+}
+pre {
+    padding: 0.25rem 1rem;
+    margin: 1rem 0;
+    overflow-y: scroll;
+}
+hr {
+    border: none;
+    width: 3rem;
+    margin: 1rem auto;
+}
+hr::before {
+    content: '§';
+    display: block;
+    text-align: center; 
+}
+main {
+    margin: 0 auto;
+    max-width: 640px;
+    font-family: 'Gentium Plus', serif;
+    font-size: 18pt;
+    text-align: justify;
+    color: #222;
+    line-height: 1.5;
+}
+main p {
+    margin: 0;
+    text-indent: 2rem;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+}
+main p:first-of-type {
+    text-indent: 0;
+}
+main blockquote {
+    margin: 1rem 0;
+    padding: 0 0 0 2rem;
+    border-left: 3px solid #ddd;
+}
+main blockquote p {
+    text-indent: 0;
+}
+main blockquote p + p {
+    margin-top: 1rem;
+}
+main blockquote + p,
+main dl + p,
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p {
+    text-indent: 0;
+}
+main .verse {
+    white-space: pre-wrap;
+    margin-left: 3rem;
+}
+main .verse p {
+    text-indent: 0;
+}
+.footnotes {
+    font-size: 80%;
+}
+.footnotes ol {
+    padding-left: 1.5rem;
+}
+.footnotes hr::before {
+    content: '';
+}
+.footnotes hr {
+    margin-left: 0;
+    width: 25%;
+    border-top: 1px solid #222;
+}
+.footnotes p {
+    text-indent: 0;
+}
+a {
+    color: #262;
+}
+a:visited {
+    color: #266;
+}
+.title img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+img {
+    max-width: 100%;
+}
+figure {
+    margin: 1rem auto;
+    max-width: 90%;
+}
+figcaption {
+    text-align: center;
+    opacity: 0.9;
+    font-size: 50%;
+}
+h1, h2 {
+    text-align: center;
+}
+header nav ul {
+    list-style-type: inline-block;
+    margin: 0.5rem;
+    padding: 0;
+}
+header nav > ul > li {
+    display: inline-block;
+    margin: 0;
+    width: calc(100% / 6);
+}
+header nav details {
+    position: relative;
+}
+header nav details > ul {
+    position: absolute;
+    z-index: 1000;
+    background-color: #fff;
+    border: 1px  solid #ccc;
+    border-radius: 3px;
+    padding: 0.5rem;
+    min-width: 15rem;
+}
+
+header nav details ul ul {
+    margin-left: 1rem;
+    width: 100%;
+}
+
+header nav details ul li {
+    display: block;
+    text-align: left;
+    margin: 1rem 0;
+}
+header nav details[open] > summary {
+    font-weight: bold;
+}
+
+.buy {
+    text-align: center;
+    text-indent: 0;
+    margin-top: 0.5rem;
+}
+.buy a {
+    display: inline-block;
+    font-size: 14pt;
+    padding: 0.5rem;
+    background-color: #eee;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    box-shadow: 1px 1px 4px #222;
+    text-decoration: none;
+}
+
+.modal {
+  display: none;
+}
+.modal.active {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.2);
+}
+.modal.active aside {
+  position: relative;
+  background-color: #fff;
+  display: block;
+  border: 1px solid #333;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  max-width: calc(640px - 2rem);
+  margin: 0.5rem auto;
+  padding: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow: scroll;
+}
+.modal.active aside aside {
+  background-color: #eee;
+}
+.modal aside q:before, .modal aside q:after {
+  content: '';
+}
+.modal aside h3 {
+  text-align: center;
+}
+a.footnote-ref {
+    text-decoration: none;
+    background-color: #eee;
+    font-size: 75%;
+    margin: 1px;
+    padding: 1px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.cite {
+    background-color: #eee;
+    padding: 0 1px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.cite-ref {
+    display: none;
+}
+.gpt {
+    max-width: 640px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    color: #888;
+    margin: 1rem auto;
+    padding-top: 1rem;
+    font-size: 8pt;
+    line-height: 1.5;
+}
+.gpt p {
+    text-align: center;
+}
+
+@media only screen and (max-width: 640px) {
+    body {
+        padding: 0;
+        margin: 0;
+    }
+    main, header, footer {
+        width: 100%;
+        padding: 0 2rem;
+    }
+    main {
+        text-align: left;
+    }
+    .footnotes hr {
+        width: 50%;
+    }
+    .modal.active aside {
+        width: calc(100% - 3rem);
+    }
+}
