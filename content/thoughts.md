@@ -31,7 +31,7 @@ The last step on my end is typesetting and final editing pass (which I usually d
 
 I knew that the response to *Motes Played* would be complicated from before its inception. Its inception was bound up in that very complication. That complication is part and parcel of the book, after all: Motes is an adult — as everyone is, sys-side — and many around her would prefer that she look and act like it.
 
-I knew that the response would be complicated, that it would make readers uncomfortable, would make friends or loved ones have some big feelings. I had those big feelings, too. Even after writing the book, after typesetting it and building the ebook (admittedly a mostly automated process), I struggled with the fact that I had written this thing and was thinking about putting it in front of others. There are no works of mine that are not expressions of vulnerability, but each is vulnerable in its own way. I was uncomfortable! Funding it with the *Marsh* Kickstarter was a way to force the issue for myself, to pit my pride in what I had accomplished against my fears.
+I knew that the response would be complicated, that it would make readers uncomfortable, would make friends or loved ones have some big feelings. I had those big feelings, too. Even after writing the book, after typesetting it and building the ebook (admittedly a mostly automated process), I struggled with the fact that I had written this thing and was thinking about putting it in front of others. There are no works of mine that are not expressions of vulnerability, but each is vulnerable in its own way. *I* was uncomfortable! Funding it with the *Marsh* Kickstarter was a way to force the issue for myself, to pit my pride in what I had accomplished against my fears.
 
 <figure>
     <img src="/so-anyway.jpg">
@@ -112,7 +112,7 @@ I resent that the oft-misused "death of the author" is only applied to the works
 
 I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that that is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing like this body and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that I risk lose readers, friends, partners.
 
-It is, as Motes puts it, annihilation. It is the opposite of validation. It is taking all that is good and making it not just bad, but reprehensible. It is taking things that one enjoys and not making them less enjoyable, but making them shameful.
+It is, as Motes puts it, annihilation. It is the opposite of reclamation. Rather than taking the bad and finding a way to reclaim the good in it, it is taking all that is good and making it not just bad, but reprehensible. It is taking things that one enjoys and not making them less enjoyable, but making them shameful.
 
 I resent that.
 
