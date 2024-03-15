@@ -111,6 +111,19 @@ main.story .author, main.story .character, main.story h3 {
     font-family: "Gotu", sans-serif !important;
     text-align: center !important;
 }
+
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+summary {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 1rem;
+    cursor: pointer;
+}
     
 @media only screen and (max-width: 960px) {
     .carousel nav {
