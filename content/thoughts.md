@@ -56,7 +56,7 @@ Honestly, I have little desire to do so now. It is not out of a desire to be a l
 
 <figure>
     <img src="/criminal.png">
-    <figcaption>She is also a criminal wanted in three states for playing Beat Saber too good.</figcaption>
+    <figcaption>She is also a criminal wanted in three states for <a href="https://youtu.be/vSS1tOhph90" target="_blank">playing Beat Saber too much</a>.</figcaption>
 </figure>
 
 I wanted to play with the whole idea, too: I wanted to play with the sorts of uncomfortable feelings that many experience when confronted with adults engaging with the world as children. I wanted to talk about how someone who spends so much time in little space deals with the fact that others hate her guts for it.
@@ -91,7 +91,7 @@ Usually, I am stuck on the number three being used to prove points — hendiatri
 
 <figure>
     <img src="/hammered-silver.png">
-    <figcaption>I mean, look at her! Picrew by <a href="https://twitter.com/makowwka">mischa</a>.</figcaption>
+    <figcaption>I mean, look at her! Picrew by <a href="https://twitter.com/makowwka" target="_blank">mischa</a>.</figcaption>
 </figure>
 
 I do not like the thought that this one sticking point will doubtless lead to strife. I do not like that it will get in the way of people's enjoyment of the work. It is not my responsibility to somehow force readers to enjoy my writing. My responsibility as an author is to present the story.
