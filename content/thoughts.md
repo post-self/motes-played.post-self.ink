@@ -4,7 +4,7 @@ title: Thoughts on Motes
 
 *Motes Played* was written in a few short weeks at the end of December, 2023 and the beginning of January, 2024 in a burst of creativity. The origin for the story actually stems from a conversation that I had with my partner on a drive from visiting eir parents down in Vancouver back home to northern Washington. In the span of about four hours, we made our way down through the stanzas of the Ode clade and spoke about what make them tick.
 
-There are some known quantities. True Name is the politician, A Finger Pointing is the theatrician, Praiseworthy is the propagandis turned arts administrator, and so on. All of the stanzas have been labeled with their basic ideas, of course, and one of those was Hammered Silver being the center of all of Michelle's feelings on motherhood.
+There are some known quantities. True Name is the politician, A Finger Pointing is the theatrician, Praiseworthy is the propagandist turned arts administrator, and so on. All of the stanzas have been labeled with their basic ideas, of course, and one of those was Hammered Silver being the center of all of Michelle's feelings on motherhood.
 
 What exactly does that mean, though? How does that play out in her head and her heart?
 
