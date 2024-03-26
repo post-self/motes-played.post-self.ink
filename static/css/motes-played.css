@@ -36,7 +36,9 @@ ul {
     padding-left: 2rem;
 }
 hr::before {
-    content: '✰';
+    content: '✨';
+    filter: grayscale(100%) brightness(30%);
+    font-family: "Gotu";
     display: block;
     text-align: center; 
 }
