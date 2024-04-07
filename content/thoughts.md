@@ -56,7 +56,7 @@ Honestly, I have little desire to do so now. It is not out of a desire to be a l
 
 <figure>
     <img src="/criminal.png">
-    <figcaption>She is also a criminal wanted in three states for <a href="https://youtu.be/vSS1tOhph90" target="_blank">playing Beat Saber too much</a>.</figcaption>
+    <figcaption>She is also a criminal wanted in three states for <a href="https://youtu.be/iU42mcSeGa8" target="_blank">playing Beat Saber too much</a>.</figcaption>
 </figure>
 
 I wanted to play with the whole idea, too: I wanted to play with the sorts of uncomfortable feelings that many experience when confronted with adults engaging with the world as children. I wanted to talk about how someone who spends so much time in little space deals with the fact that others hate her guts for it.
