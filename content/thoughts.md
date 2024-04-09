@@ -12,8 +12,8 @@ Our initial take on it was actually fairly negative. We decided that she had som
 
 However, we wanted to toy with those feelings of motherhood more directly. How does she deal with the lack of children on the System? How does she deal with her own feelings on motherhood? We decided on coming up with a good side and a bad side:
 
-* **Good side:** Hammered Silver is keenly focused on family dynamics as a whole and ensuring that these remain supportive in a place. This was expanded after the advent of AVEC, where she campaigned to help keep families united after a member uploaded.
-* **Bad side:** This problem was expanded vertically to include a rather prescriptive definition of family as she bought thoroughly into the taboo on intraclade relationships, leading her to view family dynamics within clades with distrust and anger.
+* **Good side:** Hammered Silver is keenly focused on family dynamics as a whole and ensuring that these remain supportive in a place where they might otherwise be neglected. This was expanded after the advent of AVEC, where she campaigned to help keep families united after a member uploaded.
+* **Bad side:** This problem was expanded vertically to include a very prescriptive definition of family, as she bought thoroughly into the taboo on intraclade relationships. This led her to view *all* family dynamics within clades with distrust and anger.
 
 Well, we already know that there are intraclade relationships sys-side. There always have been, of course, though not always out in public. There have even been intraclade relationships within the Ode clade (and beyond just the stated examples in the Cycle), such as between Beholden and A Finger Pointing.
 
@@ -106,11 +106,11 @@ I began this pile of thoughts by talking about my initial discomfort with the id
 
 If I sound bitter, it is because I have made something that I enjoy and yet also feel compelled to defend.
 
-I resent that I will have my personhood negated when I am declared problematic, a groomer, a pedophile, *persona non grata.* I resent that I do not need to consider whether I will be labeled these things; I know I will. I mentioned above that I have already had that conversation. It led to someone stepping back from the Post-Self community.[^welcome]
+I resent that I will have my personhood negated when I am declared problematic, a groomer, a pedophile, *persona non grata.* I resent that I do not need to consider whether I will be labeled these things; I know I will. I mentioned above that I have already had that conversation. It led to someone reducing their engagement with the Post-Self community.[^welcome]
 
 I resent that the oft-misused "death of the author" is only applied to the works one enjoys, and so in this case, I will be reduced to my roughest edges and discarded. The work that I put into it will be ignored in the face of this one fact regardless on my feelings of what I have accomplished.
 
-I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that dealing with those is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing, just like this body, and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that, no matter how loudly I say that I am aware of the broader context of CSA in the wider world, how abhorrent I think that is, none of that will matter in the face of that same imagined wicked and manipulative aspect. I resent that, no matter how nuanced my arguments on consent are — even within this very work! — the work itself will be declared, yes, wicked and manipulative. I resent that I risk losing readers, friends, loved ones.
+I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that dealing with those is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing, just like this body, and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that, no matter how loudly I say that I am aware of the broader context of CSA in the wider world, how abhorrent I think that is, none of that will matter in the face of that same imagined wicked and manipulative aspect. I resent that, no matter how nuanced my arguments on consent are[^thoughts] — even within this very work! — the work itself will be declared, yes, wicked and manipulative.  I resent that I risk losing readers, friends, loved ones.
 
 It is, as Motes puts it, annihilation. It is the opposite of reclamation. Rather than taking the bad and finding a way to reclaim the good in it, it is taking all that is good and making it not just bad, but reprehensible. It is taking things that one enjoys and not making them less enjoyable, but making them shameful.
 
@@ -139,3 +139,5 @@ As usual, it will be available as an ebook, a paperback, and free to read online
 [^makefun]: I am contractually obligated to make fun of her. It is part of being an author.
 
 [^welcome]: Which is valid! Curate your engagement. Stay healthy with your media consumption. The Post-Self community explicitly welcomes a come-and-go, curation-friendly approach in all our spaces.
+
+[^thoughts]: Those who *do* engage with interests and kinks often considered problematic think about them and their potentially problematic aspects *far* more than most, even those who dislike them, I guarantee you. 
