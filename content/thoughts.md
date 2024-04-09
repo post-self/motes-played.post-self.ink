@@ -50,7 +50,7 @@ It goes beyond interests or chosen profession (or, well, “““profession”�
 
 This includes all sorts of different aspects of personality. A Finger Pointing remains her flamboyant, dramatic self just as Motes leans hard into these feelings of childhood. I wanted to explore something like this in more detail.
 
-Finally, I have been fascinated with the idea of childhood for years. It is not the supposed purity of it, nor is it necessarily that my own was bad. What it *was,* though, is less than ideal. It feels like my childhood is something that happened to someone else. It is a thing that happened to Matthew, not to Madison. I never got to live a childhood as Madison, good *or* bad.
+Finally, I have been fascinated with the idea of childhood for years. It is not the supposed purity[^ugh] of it, nor is it necessarily that my own was bad. What it *was,* though, is less than ideal. It feels like my childhood is something that happened to someone else. It is a thing that happened to Matthew, not to Madison. I never got to live a childhood as Madison, good *or* bad.
 
 Honestly, I have little desire to do so now. It is not out of a desire to be a literal kid, myself, that I wrote *Motes Played.* I wrote it because that idea in particular — that someone would wish to just...go be a kid because they can and because it felt good — is fascinating to me. Motes decided that her role was to be the kid, the One Who Plays, and so she leaned hard into that.
 
@@ -108,7 +108,7 @@ If I sound bitter, it is because I have made something that I enjoy and yet also
 
 I resent that I will have my personhood negated when I am declared problematic, a groomer, a pedophile, *persona non grata.* I resent that I do not need to consider whether I will be labeled these things; I know I will. I mentioned above that I have already had that conversation. It led to someone reducing their engagement with the Post-Self community.[^welcome]
 
-I resent that the oft-misused "death of the author" is only applied to the works one enjoys, and so in this case, I will be reduced to my roughest edges and discarded. The work that I put into it will be ignored in the face of this one fact regardless on my feelings of what I have accomplished.
+I resent that the oft-misused "death of the author" is only applied to the works one enjoys, and so in this case, I will be reduced to my roughest edges and discarded. The work that I put into it will be ignored in the face of this one fact regardless of my feelings of what I have accomplished.
 
 I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that dealing with those is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing, just like this body, and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that, no matter how loudly I say that I am aware of the broader context of CSA in the wider world, how abhorrent I think that is, none of that will matter in the face of that same imagined wicked and manipulative aspect. I resent that, no matter how nuanced my arguments on consent are[^thoughts] — even within this very work! — the work itself will be declared, yes, wicked and manipulative.  I resent that I risk losing readers, friends, loved ones.
 
@@ -135,6 +135,8 @@ As usual, it will be available as an ebook, a paperback, and free to read online
 </figure>
 
 [^sciatica]: Okay, but having sciatica for two months probably helped.
+
+[^ugh]: Why we do not think of 'the purity of childhood' as an aspect of the oft-maligned purity culture is beyond me. Kids can be mean. They can be *cruel.* They are creatures who act upon their base desires, for better or worse. The "corruption" of children, thus, is a talking point of the right, those bastions of purity culture, and to watch my own far-left cohort slip into that as a part of the ways in which they perform leftism, even if only on instinct, is disheartening, but then, in a personal essay on media literacy, I repeat myself.
 
 [^makefun]: I am contractually obligated to make fun of her. It is part of being an author.
 
