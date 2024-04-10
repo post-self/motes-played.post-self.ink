@@ -79,15 +79,15 @@ Instead, I provide a piece of writing which I intend to be escapist — I have m
 
 But even if it were instructive, what are the lessons to be taken away from the story?
 
-* **Do not trust strangers not to be gross to kids.** Motes is wary of forming friendships with adults unless she already knows and trusts them. Even when she does go out as an adult or engages with sexuality, she will not even give her name.
+* **Do not trust strangers not to be gross to kids.** Motes is wary of forming friendships with adults unless she already knows and trusts them. Even when she does go out as an adult and engages with sexuality, she will not even give her name.
 * **Have a support network to help with the first point.** She relies on others not herself to help spot the things that she misses. Those she keeps close — A Finger Pointing, Beholden, Slow Hours, and so on — all strive to protect her, and she trusts in that.
 * **Live joyfully but live intentionally.** Motes does not simply throw herself with abandon into "oh, I am going to be a kid now!" but instead approaches her goal with intentionality, setting and respecting boundaries, and choosing spaces where such is expected and welcomed.
 
 And here are the lessons that it does ***not*** teach:
 
-* **It is somehow, in some bizarro universe, okay to groom children, even if those children are adults.** Motes explicitly avoids this and trusts others to help find the ones she cannot see.
+* **It is somehow, in some bizarro universe, okay to groom children, even if those children are adults.** Motes explicitly avoids this and trusts others to help spot the instances she cannot see.
 
-Usually, I am stuck on the number three being used to prove points — hendiatris, bay-*bee* — but I am not even going to bother including two more points, because this is the only one that has been (and I suspect will be) raised as a concern, even at the expense of any other issues presented within the book. Motes also has a death kink that one of her not-parents loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom-lookin', HOA-president-ass bitch[^makefun] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
+Usually, I am stuck on the number three being used to prove points — hendiatris, bay-*bee* — but I am not even going to bother including two more points, because this is the only one that has been (and I suspect will be) raised as a concern, even at the expense of any other characterizations presented within the book. Motes also has a death kink that one of her not-parents loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom-lookin', HOA-president-ass bitch[^makefun] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
 
 <figure>
     <img src="/hammered-silver.png">
@@ -102,15 +102,15 @@ It is my *right,* however, to defend myself and my work.
 
 If I sound a bit bitter, it is because I am, and it is something I will not apologize for, despite my people-pleasing tendencies.
 
-I began this pile of thoughts by talking about my initial discomfort with the idea of publishing this thing that I wrote. Since then, I have been struck with the occasional flash of such discomfort, but more and more often, I have been struck with a sense of pride. I *like* what I have accomplished. I like that I wrote in this vaguely children's book style. I like that we get Odists interacting with Odists, and that even the narration is written in (admittedly somewhat gentled) Odespeak. I like that I had the chance to lean into not only [my own plurality](https://makyo.is/plural) (Motes, Beholden, Slow Hours, and Dry Grass being headmates) but [my partner's](https://cohost.org/hamratza) (A Finger Pointing and Warmth). I like that I got to explore the more populous areas of the System through someone other than the relatively shut-in Bălans. I like that I had the chance to lean into this topic, even! It is fulfilling to write something emotional and difficult.
+I began this pile of thoughts by talking about my initial wariness at the idea of publishing this thing that I wrote. Since then, I have been struck with the occasional flash of such discomfort, but more and more often, I have been struck with a sense of pride. I *like* what I have accomplished. I like that I wrote in this vaguely children's book style. I like that we get Odists interacting with Odists, and that even the narration is written in (admittedly somewhat gentled) Odespeak. I like that I had the chance to lean into not only [my own plurality](https://makyo.is/plural) (Motes, Beholden, Slow Hours, and Dry Grass being headmates) but [my partner's](https://cohost.org/hamratza) (A Finger Pointing and Warmth). I like that I got to explore the more populous areas of the System through someone other than the relatively shut-in Bălans. I like that I had the chance to lean into this topic, even! It is fulfilling to write something emotional and difficult.
 
-If I sound bitter, it is because I have made something that I enjoy and yet also feel compelled to defend.
+If I sound bitter, it is because I have made something that I am proud of and yet also feel compelled to defend.
 
-I resent that I will have my personhood negated when I am declared problematic, a groomer, a pedophile, *persona non grata.* I resent that I do not need to consider whether I will be labeled these things; I know I will. I mentioned above that I have already had that conversation. It led to someone reducing their engagement with the Post-Self community.[^welcome]
+I resent that I will have my personhood negated when I am declared problematic, a groomer, a pedophile, *persona non grata.* I resent that I do not need to consider whether I will be labeled these things; I am all but sure I will. I mentioned above that I have already had a conversation that touched on this. It led to someone reducing their engagement with the Post-Self community.[^welcome] I resent that I risk losing readers, friends, loved ones. I resent that the oft-misused "death of the author" is only applied to the works one enjoys and derided otherwise, and so in this case, I will be reduced to my roughest edges and discarded by those who do not enjoy works such as these. The work that I put into it will be ignored in the face of this one fact regardless of my feelings on what I have accomplished.
 
-I resent that the oft-misused "death of the author" is only applied to the works one enjoys, and so in this case, I will be reduced to my roughest edges and discarded. The work that I put into it will be ignored in the face of this one fact regardless of my feelings of what I have accomplished.
+I resent that one way I could avoid such readings are to make Motes miserable, to deny her happiness in her identity, do take from her her pride in herself and her growth. I resent that I might well be lauded for changing the ending of the book to have Motes give up, have her follow Hammered Silver's suggestion to put away childish things[^jews] and become other than she had been. I resent that a 'solution' in my straw-reader's mind would be to replace joy with shame.
 
-I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of telling, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that dealing with those is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing, just like this body, and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that, no matter how loudly I say that I am aware of the broader context of CSA in the wider world, how abhorrent I think that is, none of that will matter in the face of that same imagined wicked and manipulative aspect. I resent that, no matter how nuanced my arguments on consent are[^thoughts] — even within this very work! — the work itself will be declared, yes, wicked and manipulative.  I resent that I risk losing readers, friends, loved ones.
+I resent that, if I claim that [Motes the character is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of this story, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that dealing with grooming is part of her character and the plot. I resent that if I claim Motes the headmate is actually 38 at time of writing, just like this wretched[^wretched] body, and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that, no matter how loudly I say that I am aware of the broader context of CSA in the wider world, how abhorrent I think that is, none of that will matter in the face of that same imagined wicked and manipulative aspect. I resent that, no matter how nuanced my arguments on consent are[^thoughts] — even within this very work! — the work itself will be declared, yes, wicked and manipulative.
 
 It is, as Motes puts it, annihilation. It is the opposite of reclamation. Rather than taking the bad and finding a way to reclaim the good in it, it is taking all that is good and making it not just bad, but reprehensible. It is taking things that one enjoys and not making them less enjoyable, but making them shameful.
 
@@ -127,6 +127,10 @@ If I sound bitter, it is because I am proud of what I have made, and I want to s
 
 I remain very proud of *Motes Played.* The story was fun to write, the characters were fun to write (and super meaningful besides; thanks plurality!), the responses were fun to hear, and I really hope that the book itself is received well.
 
+It is my hope that this work is enjoyed as a work of escapism. I hope that a work that interrogates little-space and its role in the lives of those who engage with, all plopped into a sci-fi setting, it leads to readers interrogating the world around them. I hope that, if it is at all instructive, it is instructive on the joys of identity, the hedonism of ever becoming more accurately oneself.
+
+I have come to love Motes beyond her identity, and I hope that you do, too.
+
 As usual, it will be available as an ebook, a paperback, and free to read online. I may even wind up serializing it on [cohost](https://cohost.org/post-self), we will see!
 
 <figure>
@@ -142,4 +146,8 @@ As usual, it will be available as an ebook, a paperback, and free to read online
 
 [^welcome]: Which is valid! Curate your engagement. Stay healthy with your media consumption. The Post-Self community explicitly welcomes a come-and-go, curation-friendly approach in all our spaces.
 
-[^thoughts]: Those who *do* engage with interests and kinks often considered problematic think about them and their potentially problematic aspects *far* more than most, even those who dislike them, I guarantee you. 
+[^jews]: The Odists are famously Jews; why is she quoting 1 Corinthians? But then, I suppose Paul was famously a Jew, too...
+
+[^wretched]: Remember that mention of sciatica? Yeeeah...
+
+[^thoughts]: Many of those who *do* engage with interests and kinks often considered problematic think about consent and those potentially problematic aspects *far* more than most, even those who dislike them, I guarantee you.
