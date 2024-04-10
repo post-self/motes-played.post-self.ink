@@ -34,7 +34,10 @@ I knew that the response to *Motes Played* would be complicated from before its 
 
 I knew that the response would be complicated, that it would make readers uncomfortable, would make friends or loved ones have some big feelings. I had those big feelings, too. Even after writing the book, after typesetting it and building the ebook (admittedly a mostly automated process), I struggled with the fact that I had written this thing and was thinking about putting it in front of others. There are no works of mine that are not expressions of vulnerability, but each is vulnerable in its own way. *I* was uncomfortable! Funding it with the *Marsh* Kickstarter was a way to force the issue for myself, to pit my pride in what I had accomplished against my fears.
 
-So anyway, I hit publish.
+<figure>
+    <img src="/so-anyway.jpg">
+    <figcaption>So anyway, I hit publish.</figcaption>
+</figure>
 
 ## Okay, but why a kid?
 
@@ -51,6 +54,11 @@ This includes all sorts of different aspects of personality. A Finger Pointing r
 Finally, I have been fascinated with the idea of childhood for years. It is not the supposed purity[^2] of it, nor is it necessarily that my own was bad. What it *was,* though, is less than ideal. It feels like my childhood is something that happened to someone else. It is a thing that happened to Matthew, not to Madison. I never got to live a childhood as Madison, good *or* bad.
 
 Honestly, I have little desire to do so now. It is not out of a desire to be a literal kid, myself, that I wrote *Motes Played.* I wrote it because that idea in particular --- that someone would wish to just...go be a kid because they can and because it felt good --- is fascinating to me. Motes decided that her role was to be the kid, the One Who Plays, and so she leaned hard into that.
+
+<figure>
+    <img src="/criminal.png">
+    <figcaption>She is also a criminal wanted in three states for <a href="https://youtu.be/iU42mcSeGa8" target="_blank">playing Beat Saber too much</a>.</figcaption>
+</figure>
 
 I wanted to play with the whole idea, too: I wanted to play with the sorts of uncomfortable feelings that many experience when confronted with adults engaging with the world as children. I wanted to talk about how someone who spends so much time in little space deals with the fact that others hate her guts for it.
 
@@ -84,6 +92,11 @@ And here, of course, are the lessons that it does ***not*** teach:
 
 Usually, I am stuck on the number three being used to prove points --- hendiatris, bay-*bee* --- but I am not going to bother including two more points, because I suspect this will be the only one raised as a concern, even at the expense of any other characterizations presented within the book. After all, Motes also has a death kink that one of her caregivers loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom-lookin', HOA-president-ass bitch[^3] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
 
+<figure>
+    <img src="/hammered-silver.png">
+    <figcaption>I mean, look at her! Picrew by <a href="https://twitter.com/makowwka" target="_blank">mischa</a>.</figcaption>
+</figure>
+
 I do not like the thought that this one sticking point will doubtless lead to strife. I do not like that it will get in the way of people's enjoyment of the work. It is not my responsibility to somehow force readers to enjoy my writing. My responsibility as an author is to present the story.
 
 It is my *desire,* however, to explain where I am coming from.
@@ -102,11 +115,16 @@ I resent that I need to be rightfully anxious. I resent that, by creating someth
 
 I resent that one way I could avoid such readings are to make Motes miserable, to deny her happiness in her identity, to take from her her pride in herself and her growth. I resent that I might well be lauded for changing the ending of the book to have Motes give up, have her follow Hammered Silver's suggestion to put away childish things[^5] and become other than she had been. I resent that a 'solution' in my straw-reader's mind would be to replace joy with shame.
 
-I resent that, if I claim that [Motes is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of this story, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that dealing with grooming is part of her character and the plot. I resent that if I claim that the headmate upon which Motes is based is actually 38 at time of writing, just like this wretched[^6] body, and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that, no matter how loudly I say that I am aware of the broader context of CSA in the wider world, how abhorrent I think that is, none of that will matter in the face of that same imagined wicked and manipulative aspect. I resent that, no matter how nuanced my arguments on consent are[^7] --- even within this very work! --- the work itself will be declared, yes, wicked and manipulative.
+I resent that, if I claim that [Motes is nearly 300 years old](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReallySevenHundredYearsOld) at the time of this story, I will be accused of trying to weasel my way out of grooming accusations, regardless of the fact that dealing with grooming is part of her character and the plot. I resent that if I claim that the headmate upon which Motes is based is actually 38 at time of writing, just like this wretched body,[^6] and has simply leaned into feelings of kidcore, a portion of my identity will be declared wicked and manipulative. I resent that, no matter how loudly I say that I am aware of the broader context of CSA in the wider world, how abhorrent I think that is, none of that will matter in the face of that same imagined wicked and manipulative aspect. I resent that, no matter how nuanced my arguments on consent are[^7] --- even within this very work! --- the work itself will be declared, yes, wicked and manipulative.
 
 It is, as Motes puts it, annihilation. It is the opposite of reclamation. Rather than taking the bad and finding a way to reclaim the good in it, it is taking a thing that is good and making it not just bad, but reprehensible. It is taking things that one enjoys and not making them less enjoyable, but making them shameful.
 
 I resent that.
+
+<figure>
+    <img src="/this-is-what-happens.gif">
+    <figcaption>This is what happens when Motes encounters annihilation.</figcaption>
+</figure>
 
 If I sound bitter, it is because I am proud of what I have made, and I want to share it.
 
@@ -117,6 +135,11 @@ I remain very proud of *Motes Played.* The story was fun to write, the character
 It is my hope that this work is enjoyed as a work of escapism. I hope that a work that interrogates little-space and its role in the lives of those who engage with, all plopped into a sci-fi setting, it leads to readers interrogating the world around them. I hope that, if it is at all instructive, it is instructive on the joys of identity, the hedonism of ever becoming more accurately oneself.
 
 I have come to love Motes, and I hope you do too.
+
+<figure>
+    <img src="/hi.png">
+    <figcaption>Motes says: please enjoy~</figcaption>
+</figure>
 
 [^1]: Okay, but having sciatica for two months probably helped.
 
