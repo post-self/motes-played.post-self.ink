@@ -25,7 +25,7 @@ img {
 
 ### Note
 
-This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](https://mitzvot.post-self.ink). It is strongly recommended that you read those works first. They may all be found [here](https://post-self.ink/cycle) as paperbacks, ebooks, and free to read in the browser.
+This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](https://mitzvot.post-self.ink). It is strongly recommended that you read those works first. They may all be found [here](https://post-self.ink/cycle) as paperbacks, ebooks, and free to read in the browser. If you would prefer to jump right in, spoilers be damned, you can find a primer [here](/primer).
 
 The tilde (~) is the punctuation mark of whimsy and on this I will not be swayed.
 

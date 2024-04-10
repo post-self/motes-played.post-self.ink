@@ -12,7 +12,7 @@ This primer is broken into two parts:
 
 ## The setting
 
-Starting in 2115, advances in technology allowed individuals to be uploaded. This is a one-way, destructive procedure. That is, once you are uploaded, there is no going back, and your body dies in the process. Given the ongoing deterioration of the climate on Earth and the fact that, in most countries, uploading is subsidized (one's beneficiaries are provided with a payout after one uploads), this is often seen as a very attractive solution. Other reasons that one might upload is to enjoy the anarchic society on the (deliberately opaquely named) System, the functional immortality offered to uploaded individuals, or some of the mechanics enjoyed by cladists. These cladists live embedded in a giant computer at the center of a space station at the Earth-Moon L~5~ point known as Lagrange. There are two smaller versions of the System, Castor and Pollux, which were launched in opposite directions travelingo ut of the Solar System in 2325.
+Starting in 2115, advances in technology allowed individuals to be uploaded. This is a one-way, destructive procedure. That is, once you are uploaded, there is no going back, and your body dies in the process. Given the ongoing deterioration of the climate on Earth and the fact that, in most countries, uploading is subsidized (one's beneficiaries are provided with a payout after one uploads), this is often seen as a very attractive solution. Other reasons that one might upload is to enjoy the anarchic society on the (deliberately opaquely named) System, the functional immortality offered to uploaded individuals, or some of the mechanics enjoyed by cladists. These cladists live embedded in a giant computer at the center of a space station at the Earth-Moon L~5~ point known as Lagrange. There are two smaller versions of the System, Castor and Pollux, which were launched in opposite directions traveling out of the Solar System in 2325.
 
 ### Cladists
 
@@ -92,7 +92,7 @@ The story leading up to *Motes Played* is told in the four books of the Post-Sel
 
 In 2112, RJ Brewster (known to eir friends as AwDae), an audio technician for the Soho Theatre Troupe gets "lost": a virus trips a safeguard in the implants ey uses to connect to the immersive 'net, which locks em within eir own dreams, leaving em in an apparent state of catatonia. In the months leading up to this, several people in the Western Federation have gotten lost, and Dr. Carter Ramirez is tasked with figuring out just how to help them, but she has been encountering more friction than expected in the course of doing her job.
 
-She is joined on her search by Michelle Hadje --- who goes by the moniker Sasha in furry spaces --- though as they start to realize that the origin of the Lost is not a virus but a way for the government of the Western Fed to disappear undesirables, Sasha, too, is lost. Once Dr. Ramirez manages to break the case wide open and all of the Lost are ressucitated, it is found that none of them remain the same, each having suffered some deep neurological trauma.
+She is joined on her search by Michelle Hadje --- who goes by the moniker Sasha in furry spaces --- though as they start to realize that the origin of the Lost is not a virus but a way for the government of the Western Fed to disappear undesirables, Sasha, too, is lost. Once Dr. Ramirez manages to break the case wide open and all of the Lost are resuscitated, it is found that none of them remain the same, each having suffered some deep neurological trauma.
 
 In the end, AwDae defects to the Sino-Russian Bloc --- the other major world power --- to volunteer to be one of the first to upload to a new world.
 
@@ -112,7 +112,7 @@ After the trauma of getting lost, Michelle/Sasha uploads as soon as she can affo
 
 The Only Time I Know My True Name Is When I Dream --- or just True Name --- remains on the Council as the political member of the clade while the other skunks/women/skunkwomen wander off to work on other projects. She is tasked by Jonas, another councilmember, with aiding in the campaign for secession. She finds it surprisingly easy and surprisingly fulfilling, quickly leaning into the role of the politician, using her skills as an actress and theatre teacher to help sway those around her, as well as their phys-side friend, Yared Zerezghi, to accomplish her goal.
 
-After Launch, much of this information comes to light, along with the fact that, despite the Council of Eight being disbanded in the 2150s, Jonas and True Name (along with the rest of the eighth stanza) continue to steer the politics of not just the System but the governments of Earth from behind the scenes --- or so they say. So dramatic are their stories, that the Bălans' book, *An Expanded History of Our World*, comes off more as sensationalist shlock than anything serious.
+After Launch, much of this information comes to light, along with the fact that, despite the Council of Eight being disbanded in the 2150s, Jonas and True Name (along with the rest of the eighth stanza) continue to steer the politics of not just the System but the governments of Earth from behind the scenes --- or so they say. So dramatic are their stories, that the Bălans' book, *An Expanded History of Our World*, comes off more as sensationalist schlock than anything serious.
 
 This, it seems, is by design.
 
@@ -124,7 +124,7 @@ With the signal from the Artemisians, as the aliens are dubbed, True Name and Jo
 
 Codrin is, of course, tapped to help document and take part in this project along with Tycho Brahe, True Name, Why Ask Questions Here At The End Of All Things, and Sarah Genet, a psychologist. Given the effects that the Bălans' *History* has had, few people seem to trust that True Name's heart is in the right place, despite her assurances otherwise and apparent earnestness.
 
-The Artemisians --- actually four different alien races traveling on a single ship, also taking the form of an uploaded-consciousness system --- agree to send a delegation of five to Castor to meet with humanity's delegation, while our five intrepid heroes prepare to transfer to Artemis to accomplish two meetings in parallel. Artemis, however, does not have forking. Instead, they have maleable control over time. This is so close to what the Odists experienced while lost that both True Name and Why Ask Questions immediately begin to struggle just as Michelle/Sasha did so many years ago.
+The Artemisians --- actually four different alien races traveling on a single ship, also taking the form of an uploaded-consciousness system --- agree to send a delegation of five to Castor to meet with humanity's delegation, while our five intrepid heroes prepare to transfer to Artemis to accomplish two meetings in parallel. Artemis, however, does not have forking. Instead, they have malleable control over time. This is so close to what the Odists experienced while lost that both True Name and Why Ask Questions immediately begin to struggle just as Michelle/Sasha did so many years ago.
 
 Did I say Why Ask Questions? I meant Answers Will Not Help: those sneaky politicians decide to test their luck by sending a subtly different delegation to Artemis than the one on Castor.
 
@@ -155,6 +155,8 @@ In an extended epilogue, the book, *Individuation and Reconciliation*, is publis
 ### And so now...
 
 By the time of the story of *Motes Played*, Sasha has started working with Au Lieu Du Rêve (when she is able, at least) as a stage manager. She --- along with May and Ioan --- have been welcomed into the arms of the fifth stanza (that of A Finger Pointing) with love and kindness. The taboo around intraclade relationships has quickly loosened, and the System has entered once more into a sort of long peace.
+
+-----
 
 Post-Self an open setting, meaning that anyone can create content within it, though the canon is loosely managed in order to keep it consistent. If you enjoyed this story and any of the many others within this universe, it is open for you to write, draw --- or paint! --- or otherwise create within. For more creative Post-Self endeavors, look no further than [*post-self.ink*](https://post-self.ink), and for more information than you could ever want, check out the Post-Self Wiki over at [*wiki.post-self.ink*](https://wiki.post-self.ink).
 
