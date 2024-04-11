@@ -29,11 +29,11 @@ This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](h
 
 The tilde (~) is the punctuation mark of whimsy and on this I will not be swayed.
 
+Further thoughts on Motes may be found [here](/thoughts-on-motes).
+
 ### Content notes:
 
 Contains mentions of rough, but consensual sex with one vague description; blood; adult characters engaging with the world as children, unrelated to sex; themes of familial abuse.
-
-Further thoughts on Motes may be found [here](/thoughts-on-motes).
 
 -----
 
