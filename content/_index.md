@@ -32,3 +32,34 @@ The tilde (~) is the punctuation mark of whimsy and on this I will not be swayed
 ### Content notes:
 
 Contains mentions of rough, but consensual sex with one vague description; blood; adult characters engaging with the world as children, unrelated to sex; themes of familial abuse.
+
+Further thoughts on Motes may be found [here](/thoughts-on-motes).
+
+-----
+
+### About the author
+
+![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)
+
+Madison Scott-Clary is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.
+
+<p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
+
+### Acknowledgements {#acknowledgements .unnumbered}
+
+Thanks, as always, to the polycule, who have been endlessly supportive, but most especially to The Lament, so many of whose words appear within this book. Thanks as well as to Tomash, Ellen, Andréa, and all the rest of the Post-Self community, who have helped build this lovely world, and to Lilium who made me think most about the impact of my work.
+
+Thanks also to my patrons:
+
+\$10+
+:   Ammy; Andréa C. Mason; Donna Karr (thanks, mom); Erika Kovac; Fuzz Wolf; green; Kit Redgrave; Merry Cearley; Mx. Juniper System; Orrery; Rob; Sariya Meolody
+
+\$5
+:   Some Egrets; ramshackle; Christi; Erica; Junkie Dawg; Lhexa; Lorxus, an actual fox on the internet; Norm Steadman; Petrov Neutrino; raxraxraxraxrax; Sasha Moore, Strawberry Daquiri; ubuntor; Zeta Syanthis
+
+\$1
+:   Alicia Goranson; Ayla Ounce; Bel; BowieBarks; Katt, sky-guided vulpine friend; Kindar; Muruski; Peter Hayes; Ruari ORourke; Sethvir; Yana Winters
+
+Thanks is due as well to all of the backers of the *Marsh* Kickstarter, without whom *Motes Played* would not be possible:
+
+> ***Krzysztof Drewniak, Nathan Merrifield, Andréa CERES Mason, Lhexa,*** *Strawberry, Amdusias, Saphire Lattice, Ash Holland, Michael Miele, Ashley Hale, Mimir, Vendryth, Petrov Neutrino, Alexandrea Christina Leal,* Kuviare, Nova, Vernon Jones, Andy Oxenreider, LadyLenalia, ramshackle heather, MisfitMephit, Some Egrets, NightEyes DaySpring, critters-system, doctorlit, Rachel Dillon, Joel Kreissman, Kate Eckhart, Giantrobots42, raine, Ayla Ounce, Alicia E. Goranson, James Tatum, Saghiir, Ember Cloke, Payson R. Harris, Vulpis, lenientsy, Campbell Royales, Laura, AntarcticFox, ubuntor, Asha Jade Goodwin, Barac Baker Wiley, Me, Robert Armstrong, Sethvir, Richie
