@@ -23,7 +23,7 @@ img {
 <a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Pre-order paperback</a> 
 </p>
 
-### Note
+### Content Notes
 
 This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](https://mitzvot.post-self.ink). It is strongly recommended that you read those works first. They may all be found [here](https://post-self.ink/cycle) as paperbacks, ebooks, and free to read in the browser. If you would prefer to jump right in, spoilers be damned, you can find a primer [here](/primer).
 
@@ -31,29 +31,28 @@ The tilde (~) is the punctuation mark of whimsy and on this I will not be swayed
 
 Further thoughts on Motes may be found [here](/thoughts-on-motes).
 
-### Content notes:
-
 Contains mentions of rough, but consensual sex with one vague description; blood; adult characters engaging with the world as children, unrelated to sex; themes of familial abuse.
 
------
+## Advance Praise
 
-### About the authors
+> There's not that much literature out there that touches on this sort of 5-12 year old kidcore aesthethic and it was nice to see it done so beautifully. I absolutely loved it, it's up there with some of my favorite pieces.
+>
+> — Faux
 
-![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)
+## About the authors
 
-Madison Scott-Clary is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.
+<!--![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)-->
+
+Madison Rye Progress and Fireheart are a couple of gay nerds living in the mountains with their dog.
+<!--is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.-->
 
 <p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
-
------
-
-The Lament is a median system dedicated to the bittersweet in life, in storytelling, and in kink...
-
 <p style="text-align: center"><a href="https://cohost.org/hamratza" target="_blank">cohost.org/hamratza</a></p>
 
-### Acknowledgements {#acknowledgements .unnumbered}
 
-Thanks, as always, to the polycule, who have been endlessly supportive, but most especially to The Lament, so many of whose words appear within this book. Thanks as well as to Tomash, Ellen, Andréa, and all the rest of the Post-Self community, who have helped build this lovely world, and to Lilium who made me think most about the impact of my work.
+## Acknowledgements {#acknowledgements .unnumbered}
+
+Thanks, as always, to the polycule, who have been endlessly supportive, but most especially to Fireherat, so many of whose words appear within this book. Thanks as well as to Tomash, Ellen, Andréa, and all the rest of the Post-Self community, who have helped build this lovely world, and to Lilium who made me think most about the impact of my work.
 
 Thanks also to my patrons:
 
