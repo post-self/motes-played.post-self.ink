@@ -42,6 +42,9 @@ hr::before {
     display: block;
     text-align: center; 
 }
+body.dark-mode hr::before {
+    filter: grayscale(100%) brightness(100%);
+}
 
 .hero {
     font-family: "Gentium Plus", serif;
