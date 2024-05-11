@@ -9,7 +9,7 @@ disablePathToLower = true
     post = '/:filename/'
 
 [params]
-    author = 'Madison Rye Progress and Fireheart'
+    author = 'Madison Rye Progress and Samantha Yule Fireheart'
     home = 'https://makyo.ink/'
     copyright = '2024'
     subtitle = 'A Post-Self Story'
