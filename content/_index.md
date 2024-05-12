@@ -35,7 +35,7 @@ Contains mentions of rough, but consensual sex with one vague description; blood
 
 ## Advance Praise
 
-> There's not that much literature out there that touches on this sort of 5-12 year old kidcore aesthethic and it was nice to see it done so beautifully. I absolutely loved it, it's up there with some of my favorite pieces.
+> There's not that much literature out there that touches on this sort of 5-12 year old kidcore aesthetic and it was nice to see it done so beautifully. I absolutely loved it, it's up there with some of my favorite pieces.
 >
 > — Faux
 
