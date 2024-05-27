@@ -12,9 +12,9 @@ Our initial take on it was actually fairly negative. We decided that she had som
 
 However, we wanted to toy with those feelings of motherhood more directly. How does she deal with the lack of children on the System? How does she deal with her own feelings on motherhood? We decided on coming up with a good side and a bad side:
 
--   **Good side:** Hammered Silver is keenly focused on family dynamics as a whole and ensuring that these remain supportive in a place where they might otherwise be neglected. This was expanded after the advent of AVEC, where she campaigned to help keep families united after a member uploaded.
+* **Good side:** Hammered Silver is keenly focused on family dynamics as a whole and ensuring that these remain supportive in a place where they might otherwise be neglected. This was expanded after the advent of AVEC, where she campaigned to help keep families united after a member uploaded.
 
--   **Bad side:** This problem was expanded vertically to include a very prescriptive definition of family, as she bought thoroughly into the taboo on intraclade relationships. This led her to view *all* family dynamics within clades with distrust and anger.
+* **Bad side:** This problem was expanded vertically to include a very prescriptive definition of family, as she bought thoroughly into the taboo on intraclade relationships. This led her to view *all* family dynamics within clades with distrust and anger.
 
 Well, we already know that there are intraclade relationships sys-side. There always have been, of course, though not always out in public. There have even been intraclade relationships within the Ode clade (and beyond just the stated examples in the Cycle), such as between Beholden and A Finger Pointing.
 
@@ -68,11 +68,11 @@ I do not need to wonder whether the reaction to *Motes Played* will involve big 
 
 First, one must consider the role of art. There are three general ways of interpreting art:
 
--   **Escapist** --- art is simply there to entertain. In the case of something like fiction, it is there to provide a glimpse of some world other than ours (no matter how distant) so that we can experience something other than our wretched, wretched lives.
+* **Escapist** --- art is simply there to entertain. In the case of something like fiction, it is there to provide a glimpse of some world other than ours (no matter how distant) so that we can experience something other than our wretched, wretched lives.
 
--   **Representative** --- art exists to represent the world as it is. Even things such as science fiction and fantasy represent the tropes that exist within our world, and are used to represent them out of their more complicated context that they might be observed.
+* **Representative** --- art exists to represent the world as it is. Even things such as science fiction and fantasy represent the tropes that exist within our world, and are used to represent them out of their more complicated context that they might be observed.
 
--   **Instructive** --- art should be used to instruct the audience how to interact with the world. This goes beyond simply teaching them how to do this or that, too: it can be that a piece of art is intended to be an example that one should follow.
+* **Instructive** --- art should be used to instruct the audience how to interact with the world. This goes beyond simply teaching them how to do this or that, too: it can be that a piece of art is intended to be an example that one should follow.
 
 These are not hard and fast categories, of course, and a work of art need not fill only one of them. I think it is this last one that a lot of folks get hung up on, in cases like this. It is, of course, only a gesture that I provide my intentions in an artist's statement, but there is very little about the book that is intended to be instructive: it starts as children's books do because Motes presents as a kid, and it ends as children's books do because, hey presto, Motes presents as a kid.
 
@@ -80,15 +80,15 @@ Instead, I provide a piece of writing which I intend to be escapist --- I have m
 
 But even if it were instructive, what are the lessons to be taken away from the story?
 
--   **Do not trust strangers not to be gross to kids.** Motes is wary of forming friendships with adults unless she already knows and trusts them. Even when she does go out as an adult and engages with sexuality, she will not even give her name.
+* **Do not trust strangers not to be gross to kids.** Motes is wary of forming friendships with adults unless she already knows and trusts them. Often, when she does go out as an adult and engages with sexuality, she will not even give her name.
 
--   **Have a support network to help with the first point.** She relies on others not herself to help spot the things that she misses. Those she keeps close --- A Finger Pointing, Beholden, Slow Hours, and so on --- all strive to protect her, and she trusts in that.
+* **Have a support network to help with the first point.** She relies on others not herself to help spot the things that she misses. Those she keeps close --- A Finger Pointing, Beholden, Slow Hours, and so on --- all strive to protect her, and she trusts in that.
 
--   **Live joyfully but live intentionally.** Motes does not simply throw herself with abandon into "oh, I am going to be a kid now!" but instead approaches her goal with intentionality, setting and respecting boundaries, and choosing spaces where such is expected and welcomed.
+* **Live joyfully but live intentionally.** Motes does not simply throw herself with abandon into "oh, I am going to be a kid now!" but instead approaches her goal with intentionality, setting and respecting boundaries, and choosing spaces where such is expected and welcomed.
 
 And here, of course, are the lessons that it does ***not*** teach:
 
--   **It is somehow, in some bizarro universe, okay to groom children, even if those children are adults.** Motes explicitly avoids this and trusts others to help spot the instances she cannot see.
+* **It is somehow, in some bizarro universe, okay to groom children, even if those children are adults.** Motes explicitly avoids this and trusts others to help spot the instances she cannot see.
 
 Usually, I am stuck on the number three being used to prove points --- hendiatris, bay-*bee* --- but I am not going to bother including two more points, because I suspect this will be the only one raised as a concern, even at the expense of any other characterizations presented within the book. After all, Motes also has a death kink that one of her caregivers loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom-lookin', HOA-president-ass bitch[^3] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
 
@@ -132,7 +132,7 @@ If I sound bitter, it is because I am proud of what I have made, and I want to s
 
 I remain very proud of *Motes Played.* The story was fun to write, the characters were fun to write (and super meaningful besides; thanks plurality!), the responses were fun to hear, and I really hope that the book itself is received well.
 
-It is my hope that this work is enjoyed as a work of escapism. I hope that a work that interrogates little-space and its role in the lives of those who engage with, all plopped into a sci-fi setting, it leads to readers interrogating the world around them. I hope that, if it is at all instructive, it is instructive on the joys of identity, the hedonism of ever becoming more accurately oneself.
+It is my hope that this work is enjoyed as a work of escapism. I hope that a work that interrogates little-space and its role in the lives of those who engage with it all plopped into a sci-fi setting leads to readers interrogating the world around them. I hope that, if it is at all instructive, it is instructive on the joys of identity, the hedonism of ever becoming more accurately oneself.
 
 I have come to love Motes, and I hope you do too.
 
