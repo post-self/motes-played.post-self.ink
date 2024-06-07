@@ -8,7 +8,7 @@ img {
 }
 </style>
 
-<img alt="A Little Book for Little Skunks" src="/littlebook.png" class="invertable">
+<img alt="A Little Book for Little Skunks" src="/front.png">
 
 > Motes played.
 > 
