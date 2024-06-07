@@ -15,6 +15,7 @@ disablePathToLower = true
     subtitle = 'A Post-Self Story'
     subtitleLink = 'https://post-self.ink'
     customCSS = ['/css/motes-played.css']
+    ogimg = '/square.png'
 
 [markup.goldmark.renderer]
     unsafe = true
