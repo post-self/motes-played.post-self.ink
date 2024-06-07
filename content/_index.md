@@ -42,6 +42,7 @@ Contains mentions of rough, but consensual sex with one vague description; blood
 ## About the authors
 
 <!--![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)-->
+<img alt="Art by Voksa" src="/echo-hours.png" style="filter: none;">
 
 Madison Rye Progress and Samantha Yule Fireheart are a couple of gay nerds living in the mountains with their dog.
 <!--is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.-->
