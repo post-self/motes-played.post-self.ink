@@ -39,6 +39,8 @@ Contains mentions of rough, but consensual sex with one vague description; blood
 >
 > — Faux
 
+-----
+
 ## About the authors
 
 <!--![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)-->
@@ -50,10 +52,11 @@ Madison Rye Progress and Samantha Yule Fireheart are a couple of gay nerds livin
 <p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
 <p style="text-align: center"><a href="https://cohost.org/hamratza" target="_blank">cohost.org/hamratza</a></p>
 
+-----
 
 ## Acknowledgements {#acknowledgements .unnumbered}
 
-Thanks, as always, to the polycule, who have been endlessly supportive, but most especially to Fireherat, so many of whose words appear within this book. Thanks as well as to Tomash, Ellen, Andréa, and all the rest of the Post-Self community, who have helped build this lovely world, and to Lilium who made me think most about the impact of my work.
+Thanks, as always, to the polycule, who have been endlessly supportive, but most especially to Sam, so many of whose words appear within this book. Thanks as well as to Tomash, Ellen, Andréa, and all the rest of the Post-Self community, who have helped build this lovely world, to Isiat and Faux for their kind words, and to Lilium who made me think most about the impact of my work.
 
 Thanks also to my patrons:
 
