@@ -52,6 +52,8 @@ Madison Rye Progress and Samantha Yule Fireheart are a couple of gay nerds livin
 <p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
 <p style="text-align: center"><a href="https://cohost.org/hamratza" target="_blank">cohost.org/hamratza</a></p>
 
+Cover by [B. Root](https://roots.works).
+
 -----
 
 ## Acknowledgements {#acknowledgements .unnumbered}
