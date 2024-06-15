@@ -2,7 +2,7 @@
 title: Thoughts on Motes
 ---
 
-*Motes Played* was written in a few short weeks at the end of December, 2023 and the beginning of January, 2024 in a burst of creativity. The origin for the story actually stems from a conversation that I had with my partner, whose system is named The Lament, on a drive from visiting eir parents down in Vancouver back home to northern Washington. In the span of about four hours, we made our way down through the stanzas of the Ode clade and spoke about what make them tick.
+*Motes Played* was written in a few short weeks at the end of December, 2023 and the beginning of January, 2024 in a burst of creativity. The origin for the story actually stems from a conversation that I had with my partner[^0] on a drive from visiting eir parents down in Vancouver back home to northern Washington. In the span of about four hours, we made our way down through the stanzas of the Ode clade and spoke about what make them tick.
 
 There are some known quantities. True Name is the politician, A Finger Pointing is the theatrician, Praiseworthy is the propagandist turned arts administrator, and so on. All of the stanzas have been labeled with their basic ideas, of course, and one of those was Hammered Silver being the center of all of Michelle's feelings on motherhood.
 
@@ -26,7 +26,7 @@ I wrote in a flurry with The Lament's help, finishing a chapter a day most days 
 
 Editing took a bit longer, mind, but was still a nice process, thanks to em, as ey read each chapter aloud to me, refined the story, and wrote portions of the text. Given how much the story means to em as well, it was a joy for both of us. I also got a few beta reads from within [the Post-Self community](https://wiki.post-self.ink/wiki/The_Post-Self_community) which were, for the most part, really kind and understanding.
 
-The last step on my end was typesetting and final editing pass (which I usually do on the typeset book), getting ready for publication, and getting a cover. I have known [Astolpho](https://furaffinity.net/user/astolpho) in some capacity for a few years, though I had been a fan of his art for far longer. We connected in early 2024 and he was quite interested in helping this project come to fruition, so it was lovely to work together.
+The last step on my end was typesetting and final editing pass (which I usually do on the typeset book), getting ready for publication, and getting a cover. I have known [B. Root](https://furaffinity.net/user/astolpho) in some capacity for a few years, though I had been a fan of his art for far longer. We connected in early 2024 and he was quite interested in helping this project come to fruition, so it was lovely to work together.
 
 ## The story
 
@@ -86,7 +86,7 @@ But even if it were instructive, what are the lessons to be taken away from the 
 
 * **Live joyfully but live intentionally.** Motes does not simply throw herself with abandon into "oh, I am going to be a kid now!" but instead approaches her goal with intentionality, setting and respecting boundaries, and choosing spaces where such is expected and welcomed.
 
-And here, of course, are the lessons that it does ***not*** teach:
+And here, of course, are the lessons that it emphatically does ***not*** teach:
 
 * **It is somehow, in some bizarro universe, okay to groom children, even if those children are adults.** Motes explicitly avoids this and trusts others to help spot the instances she cannot see.
 
@@ -105,7 +105,7 @@ It is my *desire,* however, to explain where I am coming from.
 
 If I am coming across as anxious, defensive, or even bitter, I guess it is because, to an extent, I am. I am trying to get better at not apologizing for everything, despite my people-pleasing tendencies. I will tamp down that urge in favor of explaining the roots of these feelings.
 
-I began this essay by talking about my initial wariness at the idea of publishing this thing that I wrote. Since then, I have been struck with the occasional flash of such discomfort, but more and more often, I have been struck with a sense of pride. I *like* what I have accomplished. I like that I wrote in this vaguely children's book style. I like that we get Odists interacting with Odists, and that even the narration is written in (admittedly somewhat gentled) Odespeak. I like that I had the chance to lean into not only [my own plurality](https://makyo.is/plural) but [The Lament's](https://cohost.org/hamratza). I like that I got to explore the more populous areas of the System through someone other than the relatively shut-in Bălans. I like that I had the chance to lean into this topic, even! It is fulfilling to write something emotional and difficult.
+I began this essay by talking about my initial wariness at the idea of publishing this thing that I wrote. Since then, I have been struck with the occasional flash of such discomfort, but more and more often, I have been struck with a sense of pride. I *like* what I have accomplished. I like that I wrote in this vaguely children's book style. I like that we get Odists interacting with Odists, and that even the narration is written in (admittedly somewhat gentled) Odespeak. I like that I had the chance to lean into not only [my own plurality](https://makyo.is/plural) but [The Lament's](https://cohost.org/hamratza) as well. I like that I got to explore the more populous areas of the System through someone other than the relatively shut-in Bălans. I like that I had the chance to lean into this topic, even! It is fulfilling to write something emotional and difficult.
 
 I remain anxious, I still struggle against defensiveness, and yes, I suppose I do feel a little bitter even still. These are a class of feelings that I try to keep to myself as I work through them. That bitterness, especially, is a reactionary feeling that speaks to complicated thoughts in need of processing, and this contrast between pride in my work and all those big feelings is, yes, plenty complicated.
 
@@ -142,6 +142,8 @@ I have come to love Motes, and I hope you do too.
 </figure>
 
 <p style="text-align: right">— Madison Scott-Clary<br>April 29, 2024</p>
+
+[^0]: Whose system name is The Lament, which you may recognize from the dedication.
 
 [^1]: Okay, but having sciatica for two months probably helped.
 
