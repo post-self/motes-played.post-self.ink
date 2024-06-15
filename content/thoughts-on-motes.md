@@ -56,7 +56,7 @@ Finally, I have been fascinated with the idea of childhood for years. It is not 
 Honestly, I have little desire to do so now. It is not out of a desire to be a literal kid, myself, that I wrote *Motes Played.* I wrote it because that idea in particular --- that someone would wish to just...go be a kid because they can and because it felt good --- is fascinating to me. Motes decided that her role was to be the kid, the One Who Plays, and so she leaned hard into that.
 
 <figure>
-    <img src="/criminal.png">
+    <img src="/criminal.png" style="filter: none">
     <figcaption>She is also a criminal wanted in three states for <a href="https://youtu.be/iU42mcSeGa8" target="_blank">playing Beat Saber too much</a>.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ And here, of course, are the lessons that it does ***not*** teach:
 Usually, I am stuck on the number three being used to prove points --- hendiatris, bay-*bee* --- but I am not going to bother including two more points, because I suspect this will be the only one raised as a concern, even at the expense of any other characterizations presented within the book. After all, Motes also has a death kink that one of her caregivers loathes. She drinks even when presenting as a child. Beholden is an alcoholic and has destructive tantrums, lashing out at those around her. Hammered Silver is a PTA-mom-lookin', HOA-president-ass bitch[^3] who abuses her not-husband, Waking World, and Waking World enables a lot of her bullshit.
 
 <figure>
-    <img src="/hammered-silver.png">
+    <img src="/hammered-silver.png" style="filter: none">
     <figcaption>I mean, look at her! Picrew by <a href="https://twitter.com/makowwka" target="_blank">mischa</a>.</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ It is, as Motes puts it, annihilation. It is the opposite of reclamation. Rather
 I resent that.
 
 <figure>
-    <img src="/this-is-what-happens.gif">
+    <img src="/this-is-what-happens.gif" style="filter: none">
     <figcaption>This is what happens when Motes encounters annihilation.</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ It is my hope that this work is enjoyed as a work of escapism. I hope that a wor
 I have come to love Motes, and I hope you do too.
 
 <figure>
-    <img src="/hi.png">
+    <img src="/hi.png" style="filter: none">
     <figcaption>Motes says: please enjoy~</figcaption>
 </figure>
 
