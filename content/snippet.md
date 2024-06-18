@@ -1,0 +1,303 @@
+# Motes — 2362
+
+> *This snippet is provided as a preview for Motes Played*
+>
+> *The book will be out later this summer!*
+
+Motes played.
+
+She played in color. She played in paint. She painted the backdrops for the productions. She painted the props that sat on the stage or rested in the actors' hands. She painted the stage itself, the matte black of so many past productions long abandoned. She painted her nails, her claws, herself. She got it on her fur. She got it on her clothes. She got stripes over her ears and polka-dots on her nose. She painted her dreams, those serene and idyllic landscapes interrupted by hyperblack squares, unexpected and unexplained holes in the world that depicted a nothing-ness, a missing-ness, a not-there-ness that slid easily between the border of absurd and unnerving. She painted the holes in the world that she dreamed about but was afraid to touch and yet which would not stop touching her mind in turn.
+
+She played in her free time, such as it was — after all, her work, such as it was, was a joy beyond joys, but everything is a sometimes food. She played hide-and-seek in the auditorium. She played tag with the performers and techs. She played pretend. She played horses and kitties and mousies. She played with Warmth In Fire, endless forks dotting countless landscapes, leapfrogging over each other across fields and between trees, bouncing off the walls of canyons and cities, colliding with force enough to knock them spinning and send them dizzy. She hunted down her friends and played hide-and-seek, yes, and tag and horses and kitties and mousies. She hunted down her friends and played puzzle games and rhythm games and stealth games and real life platformers and turn-based sims that locked her in place when it was not her turn.
+
+She played with her form. She played with her fur. She played with her mane. She played with her claws and with her tail. She played with her size. She played with her age. She played when she presented as twenty. She played when she presented as twelve. She played when she presented as five. She played always, even when she was as old as the rest of her clade — what was it, now? 275? 276?
+
+She played with life, enjoying and enjoying and enjoying. 
+
+She played with death. She had died countless times, on-stage and off — to knives, to falls, to drowning, to games, to those who said they loved her, to those who said they hated her.
+
+She played with identity. She played with fire.
+
+Motes played because she was a kid and she was a kid because she played. She was a kid because kids are resilient. She was a kid because kids bounced, because they fell, cried, and then picked themselves up once more and went back to playing. She was a kid because she liked being small. She was a kid because she liked it when others played, too. She liked when others fell into enjoyment and laughter along with her. She liked the way that it brought out the best in those in her life. She was a kid because a life would not truly be complete without kids, and she believed with all of her heart that life should be complete.
+
+She played because she *was* play. Play incarnate.
+
+And so Motes played. 
+
+She sat atop her stool, one of her feet perched up there with her so that she could rest her chin somewhere while she painted. A palette sat on an infinitely positionable nothing beside her. A canvas sat on an easel, rickety and well-loved, before her. A brush sat in her paw, and paint sat on the brush. A thin, black rectangle sat on that canvas, as did a mountainous landscape. Music sat in her ears, chirpy and glitchy to offset the serenity of the scene in a new way.
+
+She hummed. She sang. Her tail fwipped this way, flopped that in time with the music. She painted and painted and painted until the painting was finished — there was no guarantee of when that would be: the painting would be done when it was done, as it now was — and when it was finished, she stopped.
+
+Slipping off her stool, she stumbled clumsily to the side, laughing at the sudden rush of pins-and-needles to her backside and the base of her tail. She inserted a step in her list of things to do before cleaning and plopped down onto her belly, using the remainder of the ochre paint in the brush to doodle the face of a fennec fox on the hardboard floor of her studio. It was one of thousands by now, and they had long since started to overlap.
+
+Once feeling returned to her rump, she pushed herself back to sit cross-legged and started the process of actually cleaning up.
+
+She used to just wave away her supplies, either letting them dissipate back into her memories or float back to their proper locations in her studio, but some decades prior, she had started using the process of putting things away by hand to unwind from the context of painting.
+
+She split the difference today and forked quickly into four Moteses: one hauled the stool up above her head and trundled over to plop it down in the corner by the workbench; one ran off with the brush and palette to wash them off in the sink; one brought the easel, painting still clamped to it, over to the corner to dry; one tried to do a handstand in the middle of the room while Motes#Root watched. Eventually, she managed for a few seconds before collapsing into a giggling heap.
+
+One by one, the various Moteses quit until #Root was the only one remaining. She pushed herself to her feet, stretched, and padded out of the pleasantly cluttered studio.
+
+"Lights, Dot."
+
+Motes jumped at the sound of A Finger Pointing's voice from the couch beside the door. "Oh! Yeah!" she said, forking off one more ephemeral instance to go flip the switch in the studio, make some spooky noises, then quit, all while #Root climbed up to join her down-tree instance on the couch, slouching against her side.
+
+"All done painting?" Beholden asked, the other, larger skunk not yet looking up from where she was slicing a lime into wedges at the bar.
+
+"Mmhm."
+
+A Finger Pointing ruffled a hand lazily through the skunk's mane. "What were you working on, my dear?"
+
+"Same sort of thing," she said, squinting her eyes shut lest they be poked by errant strands of that longer fur. "The shapes in my dreams are getting narrower and flatter, now."
+
+"Are you going to wind up painting thin black lines in another hundred years?" Beholden asked from the bar, a grin audible in her voice. "Just a beautiful landscape cut in half by a hair?"
+
+Motes giggled. "I do not know. Probably. Are you making drinks, Bee?"
+
+The other skunk scoffed, tossing her head back, adopting a scolding tone. "Am I making drinks? Am *I* making drinks? And We Are The Motes In The Stage-Lights, what happened to your brain?" She laughed, adding, "Why? Want one too?"
+
+Motes blew a raspberry in response. "Yes please!"
+
+"Beholden To The Heat Of The Lamps of the Ode clade, you had best not be feeding the child gin," A Finger Pointing scolded in turn, leaning hard into that full name. Her scowl was nevertheless patently overwrought.
+
+"Right, virgin gin fizz it is."
+
+"*Maaa~*" Motes whined. "I am a grown up!"
+
+"You are seven, my dear," A Finger Pointing retorted.
+
+Another raspberry.
+
+Beholden poured a tall gin fizz to share with herself and her partner-*cum*-cocladist, lime muddled with sugar and cardamom bitters, gin and soda water. Then she made a second glass sans alcohol and turned to lean back against the edge of the bar, drink in one paw and bottle of gin in the other, finally facing the two cuddled up on the couch. She 'absentmindedly' started to top up the glass from the bottle. "Oh, *right!* You said virgin," she said, mock surprise in her voice. Alcohol continued to pour. She winked to the skunklet. "Oh no. *Oh no!* That is *way* too much! Motes! You had better not drink this!"
+
+They all laughed.
+
+Beholden padded over to join them on the couch. She took a long sip from one of the glasses before passing it over to A Finger Pointing, handing the other over to Motes. "We are headed out to a pub tonight with a few others, kiddo. Jazz and burgers and too much whiskey."
+
+"Is that why you are all dressed up?" Motes asked, her paint-spattered overalls contrasting with both of their all-black ensembles.
+
+They both nodded.
+
+"Who will be there?"
+
+"Ioan, May Then My Name, Unbidden, Ray and Loam..." Beholden said, ticking off names on her fingers. "The usual crowd."
+
+"Can I come?"
+
+A Finger Pointing shrugged. "I do not see why not. Do you want to?"
+
+Motes grinned. "Not really. I just wanted to see if I could."
+
+Her down-tree pinched her ear between her fingers. "Very well. Will you be staying here by yourself, then?"
+
+She laughed, tilting her head and taking a lapping sip of her drink. "Maybe. Maybe I will find someone to flop with."
+
+"Cuddly Dot?" Beholden asked, leaning closer to sandwich her between her two guardians, between Ma and Bee.
+
+Motes wriggled right in between them. "Mmhm. Not tired, just lazy."
+
+"Flop away," A Finger Pointing said fondly. "Who do you think you will ask?"
+
+She shrugged. "Beckoning and Muse? Slow Hours, maybe? Dry Grass? I think Warmth is feeling a bit fussy."
+
+"Two peas in a pod," Beholden said. "Two little fusspots."
+
+"Am not!"
+
+"No, no. Beholden is right. You are absolutely a fusspot," A Finger Pointing said. "Why is Warmth In Fire feeling fussy?"
+
+"I do not know. Usually that happens when ey gets a letter from one of the Dear-cules."
+
+"Mm, usually Pollux, yes." She sighed, passing the drink back to Beholden and resting her head against the back of the couch. "It has been a while since you bothered Dry Grass, then. You flopped on Slow Hours earlier today and pestered your aunts earlier this week. You tracked soil all over the floor, remember?"
+
+"Alright, I will ping her soon, then."
+
+"Good girl."
+
+"Going to make her cook you something ridiculous?" Beholden asked. "Nuggets and fries and mac and cheese?"
+
+"Of course," Motes said, nose poking haughtily up into the air. "Not a single green thing on the plate."
+
+"Right." The other skunk laughed. "You know, I am always surprised by how much our tastes have diverged since we were forked. Here I am, the bitter housewife to boss's sourness–"
+
+"Not your boss," A Finger Pointing said lazily.
+
+"Fine, to *Time* Is A Finger *Pointing* At *Itself's* sourness."
+
+This netted her a tug on the ear, which earned a laugh in turn.
+
+She poked Motes in the belly. "Here you are, fat little skunk–" 
+
+Motes snorted. "You are also a fat skunk, though."
+
+"Complaining? I thought not. You have fallen asleep on my belly more than once this week. Here you are talking about a plate of salt and carbs while I am looking forward to a salad the size of my head and a burger that is also mostly salad."
+
+"I *also* like those things, though," Motes countered. "Like, I would eat the heck out of a salad right about now."
+
+"You just have a bit to commit to," A Finger Pointing said, nodding. "And we are nothing if not ourselves when it comes to committing to a bit."
+
+"Exactly! We are the same age, right? We were the same person until we were 41, right? I have just had, like...two hundred years to pick my own bit to commit to. I am the kid, you are the weirdo who makes really crazy music, Ma is the one who does all the schmoozing and stuff."
+
+"*Schmoozing,* huh?" A Finger Pointing laughed. "I suppose that is as good a way to put it as any. Someone has to keep this band of layabouts moving. Someone has to grease all the squeaky wheels in the clade."
+
+"There are more than a few of those," Beholden said from behind her drink. 
+
+"We are all allowed to be squeaky wheels now and then, and that includes you, my muse."
+
+"I would trust no one else to get me all greased up," the skunk said, leering.
+
+"You think you are so slick, Beholden, but you *had* to have gotten that from somewhere."
+
+The playful banter continued, and while she would occasionally poke her snout in to make a quip of her own, Motes largely just savored her drink, bitter and sour and sweet, and the comfort of being nestled in between her two cocladists, thinking.
+
+She thought about the more than two centuries that had passed since A Finger Pointing had forked into the other nine instances of her stanza, that point when Motes had become Motes. She thought about the time that had followed when she remained essentially the version of A Finger Pointing who had taken up responsibility for sets and props, about those slow years of individuation and differentiation. She thought about the way she had started to toy with her appearance, her actions, her approach to life, and how she had steered herself into this focus on play to reclaim a childhood that had, yes, been pleasant enough, and yet which could have been so much *more,* now that she had all the time in the world. Something to live intentionally. Something to savor.
+
+It had not always been smooth, to be sure. The compromises she made early on far outnumbered the ways in which she was earnest to herself.
+
+She did not blame A Finger Pointing for suggesting such compromises, never once. She, of all those in her life, was trustworthy. Motes had once *been* her, after all, yes? They had had their spats — more than a few — as would be the case between any parent and child — as would be the case between any two individuals. She had had spats with more than just Ma. She and Beholden had fought, and at times bitterly, and it was at those times that Bee's guardianship had felt most precarious. It had never disappeared, but it had verged well into the realm of sister — the realm of Slow Hours — or bestest friend — that of of Warmth In Fire — and away from guardian, away from that parental love.
+
+She did not remember what the spats were about. She could, yes, her memory was as incorruptible as anyone else's on the three Systems. But she would not, because that was not the point. The point was that she was Motes. She was their Dot, their *dóttir.* She was the kid, and they were the grown-ups who loved her.
+
+And so their protectiveness made sense, yes? They wanted to keep her safe, yes? They just could not help but keep *themselves* safe as well, yes?
+
+And that is where the friction came from. It came from others fussing about Motes-as-kid.
+
+She was not always. Often, she was in her early twenties. Certainly a far cry from the 41 she had been when she had been forked, or the 31 she had been when Michelle Hadje had first uploaded, but still, far more acceptable in the eyes of many on the System, far more acceptable in the eyes of the rest of the Ode clade.
+
+It was them, through A Finger Pointing and, on a few occasions, through Slow Hours and Time Rushes, who suggested that she should not do this thing. It was too close, they said, to unwelcome paraphilias, here on the System where one had to be at least eighteen to upload. It was too close, they said, to coming off as someone seeking unwanted attention, affection, sexuality. "I understand that you wish to reclaim childhood," they told her through her ma or siblings. "But you must understand the optics." Never mind that she had long since set aside sexuality while in this form, that she harbored her own fears of those offering unwanted attention, affection, sex. No, it was the *optics* that needed minding.
+
+And so she kept it under wraps for years and decades.
+
+First it was the feelings she kept to herself. She alone knew them, and then her stanza alone knew them, but no one else.
+
+Then, it was the appearance that she kept to herself. While, shortly after happening on these feelings, she had built herself into an image of youth parked squarely in her early twenties, a human who dressed in flower-embroidered jeans and blouses, who so often wore a flower crown in her hair, who embodied flower-child, she now spent weeks and months tuning various aspects of her shape, of her sensorium. A skunk like so many of her cocladists, rather than a human. Shorter, yes, but that is not all that makes a child. Shorter, proportionately different, clumsier, less developed in all ways aside from mental acuity. Just a kid.
+
+She alone knew this shape, alone in her room, alone in her apartment, alone in her studio with the doors securely shut and the premises swept. She alone knew what she looked like, and then her stanza knew, but precious few others.
+
+When first she began to explore outside the sphere of her stanza, when she first began to be perceived by the world around her, she lasted perhaps a week before the first gentle suggestions began to arrive. Perhaps this was just an 'us' thing, yes? A thing for playing with just Au Lieu Du Rêve, our little theatre troupe? We can play with these feelings somewhere safe.
+
+The discussion of optics did not show up for another few years as she tested the limits of this admonition. More people had uploaded, after all. More furries, yes, and more people with similar interests. There were more friends to be made.
+
+And yet she was of the Ode, was she not? There was an image to maintain that extended beyond the individual.
+
+The feelings, the appearance, rinse and repeat with this and that, with moving in together, with the familial language of 'Ma' and 'Sis', with sharing a bed when she had a nightmare, as any Odist might. Again and again pushing gently at limitations to search for a slow form of change.
+
+Still, she did as she was told and kept this particular sense of family to herself and those she loved. She was a good girl, of course, always tried to be, but she was also as much an Odist as those who spoke so often of optics. She saw the trends, the prickly taboo against intraclade relationships like that of A Finger Pointing and Beholden, how the subversiveness of found family might rub up against that. She had her guesses, but–
+
+"Motes? Did you hear what I said?" Beholden asked, ruffling her mane all up.
+
+"Nope~" Motes said, smiling primly. "I have been ignoring you both."
+
+Beholden rolled her eyes. "Brat. Lost in thought?"
+
+She shrugged, sipping her drink yet more. "I guess. Was thinking of fusspots and all the trouble calling Ma 'Ma' caused. Glad it is not a thing anymore."
+
+"*Less* of a thing," A Finger Pointing corrected. "It is not *not* a thing. What Beholden was saying, though, is that we were going to head off. The offer stands for you to join us, Dot."
+
+Motes let the thought go as the topic was deftly changed. "Nah, it is okay, I will stay here and see if Dry Grass wants to flop."
+
+"Flop and draw?"
+
+"Or paint nails or chat or whatever. There is lots we can do."
+
+With their final goodbyes and myriad kisses, Motes was left alone once more.
+
+She cued up more music, quieter this time, then padded to the kitchen and started a sensorium message.
+
+*"Dry Grass Dry Grass Dry Grass!"*
+
+There was a moment's silence, a sense of laughter, and then, *"Motes Motes Motes! How are you, skunklet?"*
+
+*"Booored. Ma and Bee left to go to a pub or something with May and Ioan, and I felt like flopping instead,"* she sent as she dug through the fridge — more a front-end to the exchange than anything. *"They suggested I see if you were free if I got lonely."*
+
+*"And here you are, pinging me, yes."*
+
+*"Mmhm. Was going to make a food or two. Do you want some?"*
+
+There was a sensation of a haughty frown from Dry Grass. *"Are you allowed to be using the stove, young miss?"*
+
+Motes sighed dramatically. *"Fiiine, I will fork older."*
+
+*"Good girl,"* came the response. *"I have seen you catch yourself on fire before, and am not keen on a repeat of that."*
+
+*"That was* one *time!"*
+
+*"I am told you are into a double digit number of times, Motes."*
+
+Motes snorted, pulled out frozen fries and nuggets from the exchange, as well as some macaroni and cheese — the good kind, baked in a casserole with crispy panko on top; she still had taste, after all. *"I am making fries and nuggets and maccy-chee,"* she sent. On a whim, she also pulled out lettuce, cherry tomatoes, and radishes. *"And a salad the size of my head."*
+
+Dry Grass laughed. *"You had me at maccy-chee. Shall I come over now?"*
+
+*"Yes, please!"*
+
+No sooner had the message completed than Dry Grass blinked into being on the default arrival point over by the front door.
+
+Motes finished shoving the tray of salad ingredients up onto the counter and zipped over to her cross-tree cocladist, all but launching herself into her arms. Dry Grass caught her, letting her momentum swing both human and skunk around in a circle. "Hey little one! Way to go almost knocking me over."
+
+"I am not sorry!" Motes said and just as quickly dashed away and back to the kitchen. "Help me cut up everything. I am going to nick a claw, I know it."
+
+Dry Grass followed after more sedately. "Of course. Would not want you losing a finger."
+
+"I have *never* done that one," Motes said, dragging a chair over to the counter to stand on. "I mostly just need help with the tomatoes. They always go flying. Oh! And can you turn on the oven?"
+
+By their powers combined, the two Odists managed to pull together a meal, exactly as Motes had described it. The salad turned out to be the breakaway winner of the bunch. Fries and nuggets are known quantities, but where the macaroni and cheese bake was good, something about the refreshing salad, the tang of the dressing, the satisfying pop of the tomatoes (many of which they wound up leaving whole) managed to hit the spot in a way none of the other dishes did.
+
+Once the dishes had been waved away and drinks had been made — sweeter cocktails that once more got her a good-natured ribbing — Motes summoned up some simple tatami mats for them to lay on on the floor, side cozied up against side, while she painted her claws and Dry Grass's nails with a fine-tipped brush, little spirals and curlicues in pink and yellow.
+
+"What is on your mind, kiddo?" Dry Grass asked. "Usually you do not want to just flop unless you are already worn out or something got you all thinky."
+
+"I dunno," she said. The use of a contraction itched, brushing against the linguistic idiosyncrasies that plagued all of the Odists, even these many years later, but she had practiced for certain occasions. She shrugged, careful not to mess up the current shape. "I spent the day with Slow Hours and Sasha, and they got to talking about the past because Sasha had a question for Slowers. Just thinking about being me."
+
+"'Being you'?"
+
+"Uh huh, like the whole kidcore thing. I was thinking about how upset it made people for a long time. Even me. I would hear a thing and get all huffy for a while and go Big Motes for a month or two." She giggled, shrugged. "It all seems really silly now, but it stuck with me."
+
+Dry Grass hummed thoughtfully. "Well, I am glad that it has gotten to the point of being silly. Are you thinking about the clade stuff?"
+
+"A little, yeah," she hazarded, finishing up the last of Dry Grass's nails. "I was thinking about the whole optics thing, which I thought was all the eighth stanza at first, but I guess it came from all over."
+
+"It did, yes. Most of it came from my stanza, actually."
+
+Motes tilted her head, squinting at her.
+
+Holding up her hands disarmingly, Dry Grass added quickly, "Not from me, my dear. Never from me. Most all of it came from Hammered Silver. A lot of her up-trees did not particularly care, and you know I actively like it."
+
+The skunk's smile returned. "I know. You are nice to me. I had figured if not the eighth, then In Dreams would have been the one."
+
+"Oh, she was definitely another one of the big culprits, at least early on. Do not get me wrong, I like the seventh stanza alright, but In Dreams can be a stickler over...well, most anything, really."
+
+"Yeah, she pulled me aside once and started talking about there being a time and a place and blah blah blah."
+
+"There is something to be said for curating one's experiences, but anyone who says the words ‘there is a time and a place for everything’ is just being a bitch. Pardon my language."
+
+"What was Hammered Silver's problem, then?"
+
+Dry Grass frowned, looking down at her spread out fingers, watching the polish dry. "It is hard to put succinctly into words that make sense because then it just comes off as a series of tautologies. She thinks that there are children and there are adults. She thinks this because that is what makes a mother a mother to someone. The child is the child and the adult is the adult in contrast. They are complements. It is all very prescriptive."
+
+Motes frowned and pulled apart the logic, doodling pink spirals onto her fingerpads. "So she thinks kids have to be actually kids? *Actual* children, even if there are none here? You still have to be over eighteen to upload."
+
+"I think so, yes, though it does not help that you are a cocladist of hers."
+
+"Is this that stupid optics thing again?"
+
+"I do not know. Certainly in part, though it is also in part because, if you are her, then you could not be her child. It is another form of an intraclade relationship." She hesitated, then added, "It means that she has the capability to become like you, yes? That all of us have that within us, yes?"
+
+"Oh god," Motes said, laughing. "I cannot imagine Hammered Silver as a kid. She would be one of those prissy, stuck up girls who is the daughter of the PTA president or something."
+
+Dry Grass laughed as well. "She is already essentially the prissy HOA president. I respect her as a person, but I do not like her, and I *certainly* do not respect her authority."
+
+"Right, because she wants you to not talk to *any* of us."
+
+She nodded. "She cut off the first, eighth, part of the ninth, and now the entire fifth stanza since you took on Sasha."
+
+Motes groaned and rolled onto her back, holding her paws up in the air to inspect her claws. "Which is stupid, because Sasha is nice."
+
+"She really is, though I have not had as much a chance to speak with her as I might like. She was the last straw in a whole series of events. She does not like Sasha, does not like you, she *really* does not like the family dynamic you have set up."
+
+Bristling, Motes glared down at the polish and brush. "It is all well and good that she not like me, but to not like my family is bullcrap."
+
+Dry Grass nodded, expression serious. "It absolutely is. She has gotten quite upset about it a few times, but I just smile and nod and tune her out when she goes into her self-righteous spirals. I am not the type to cut anyone out of my life, for better or worse, but I will absolutely ignore people."
+
+Motes huffed, nodded. "Good. If you stop talking to me, I *will* cry."
+
+"Perish the thought!" Dry Grass laughed and leaned over to hug her cocladist, careful of her nails. "I will not. Do not worry, my dear, you are stuck with me for a good while yet. I would rather tell Hammered Silver to go fuck herself."
