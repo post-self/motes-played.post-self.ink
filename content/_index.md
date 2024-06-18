@@ -21,6 +21,7 @@ img {
 <p class="buy">
 <a href="https://makyo.itch.io/motes-played" target="_blank">Pre-order ebook</a>
 <a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Pre-order paperback</a> 
+<a href="/snippet">Read a sample</a>
 </p>
 
 ### Content Notes
