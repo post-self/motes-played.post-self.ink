@@ -10,6 +10,12 @@ img {
 
 <img alt="A Little Book for Little Skunks" src="/front.png">
 
+<p class="buy">
+<a href="https://makyo.itch.io/motes-played" target="_blank">Pre-order ebook</a>
+<a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Pre-order paperback</a> 
+<a href="/snippet">Read a sample</a>
+</p>
+
 > Motes played.
 > 
 > She played because she *was* play. She played because that was her role in life, because that is just who she was. She played with color, played with life, played with death.
@@ -18,12 +24,7 @@ img {
 > 
 > Motes played, because how could she not?
 
-<p class="buy">
-<a href="https://makyo.itch.io/motes-played" target="_blank">Pre-order ebook</a>
-<a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Pre-order paperback</a> 
-<a href="/snippet">Read a sample</a>
-</p>
-
+<!--
 ### Content Notes
 
 This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](https://mitzvot.post-self.ink). It is strongly recommended that you read those works first. They may all be found [here](https://post-self.ink/cycle) as paperbacks, ebooks, and free to read in the browser. If you would prefer to jump right in, spoilers be damned, you can find a primer [here](/primer).
@@ -33,6 +34,7 @@ The tilde (~) is the punctuation mark of whimsy and on this I will not be swayed
 Further thoughts on Motes may be found [here](/thoughts-on-motes).
 
 Contains mentions of rough, but consensual sex with one vague description; blood; adult characters engaging with the world as children, unrelated to sex; themes of familial abuse.
+-->
 
 ## Advance Praise
 
@@ -44,16 +46,25 @@ Contains mentions of rough, but consensual sex with one vague description; blood
 
 ## About the authors
 
-<!--![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)-->
+<figure>
 <img alt="Art by Voksa" src="/echo-hours.png" style="filter: none;">
+<figcaption>Art by <a href="https://vox-space.neocities.org" target="_blank">Voksa</a></figcaption>
+</figure>
 
-Madison Rye Progress and Samantha Yule Fireheart are a couple of gay nerds living in the mountains with their dog.
-<!--is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.-->
+Madison Rye Progress and Samantha Yule Fireheart are a couple'a nerds living in the mountains with their dog. Together, they have shepherded the Post-Self universe from a simple setting for a few stories to an entire world, working to curate the history and mechanics, as well as building the community that has sprung up around the setting. 
 
 <p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
 <p style="text-align: center"><a href="https://cohost.org/hamratza" target="_blank">cohost.org/hamratza</a></p>
 
-Cover by [B. Root](https://roots.works).
+-----
+
+## About the artist
+
+<figure>
+<img alt="Art by B. Root" src="/astolpho-color.png" style="filter: none">
+</figure>
+
+B. Root is a illustrator, 3d artist, and VR enthusiast living in the Pacific Northwest. He is also a rather small lion.
 
 -----
 
