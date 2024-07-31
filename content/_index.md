@@ -64,7 +64,7 @@ Madison Rye Progress and Samantha Yule Fireheart are a couple'a nerds living in 
 <img alt="Art by B. Root" src="/astolpho-color.png" style="filter: none">
 </figure>
 
-B. Root is a illustrator, 3d artist, and VR enthusiast living in the Pacific Northwest. He is also a rather small lion.
+B. Root is an illustrator, 3d artist, and VR enthusiast living in the Pacific Northwest. He is also a rather small lion.
 
 -----
 
