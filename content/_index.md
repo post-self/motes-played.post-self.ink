@@ -11,9 +11,9 @@ img {
 <img alt="A Little Book for Little Skunks" src="/front.png">
 
 <p class="buy">
-<a href="https://makyo.itch.io/motes-played" target="_blank">Pre-order ebook</a>
-<a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Pre-order paperback</a> 
-<a href="/snippet">Read a sample</a>
+<a href="https://makyo.itch.io/motes-played" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Order paperback</a> 
+<a href="/read">Read in the browser</a>
 </p>
 
 > Motes played.
