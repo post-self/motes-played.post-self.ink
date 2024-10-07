@@ -141,7 +141,7 @@ I have come to love Motes, and I hope you do too.
     <figcaption>Motes says: please enjoy~</figcaption>
 </figure>
 
-<p style="text-align: right">— Madison Scott-Clary<br>April 29, 2024</p>
+<p style="text-align: right">— Madison Rye Progress<br>April 29, 2024</p>
 
 [^0]: Whose system name is The Lament, which you may recognize from the dedication.
 
