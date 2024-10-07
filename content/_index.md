@@ -14,6 +14,7 @@ img {
 <a href="https://makyo.itch.io/motes-played" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/motes-played/17" target="_blank">Order paperback</a> 
 <a href="/read">Read in the browser</a>
+<a href="/thoughts-on-motes">Thoughts on Motes</a>
 </p>
 
 > Motes played.
@@ -30,8 +31,6 @@ img {
 This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](https://mitzvot.post-self.ink). It is strongly recommended that you read those works first. They may all be found [here](https://post-self.ink/cycle) as paperbacks, ebooks, and free to read in the browser. If you would prefer to jump right in, spoilers be damned, you can find a primer [here](/primer).
 
 The tilde (~) is the punctuation mark of whimsy and on this I will not be swayed.
-
-Further thoughts on Motes may be found [here](/thoughts-on-motes).
 
 Contains mentions of rough, but consensual sex with one vague description; blood; adult characters engaging with the world as children, unrelated to sex; themes of familial abuse.
 -->
@@ -53,8 +52,8 @@ Contains mentions of rough, but consensual sex with one vague description; blood
 
 Madison Rye Progress and Samantha Yule Fireheart are a couple'a nerds living in the mountains with their dog. Together, they have shepherded the Post-Self universe from a simple setting for a few stories to an entire world, working to curate the history and mechanics, as well as building the community that has sprung up around the setting. 
 
-<p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
-<p style="text-align: center"><a href="https://cohost.org/hamratza" target="_blank">cohost.org/hamratza</a></p>
+<p style="text-align: center; text-indent: 0"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
+<p style="text-align: center; text-indent: 0"><a href="https://cohost.org/hamratza" target="_blank">cohost.org/hamratza</a></p>
 
 -----
 
@@ -65,6 +64,8 @@ Madison Rye Progress and Samantha Yule Fireheart are a couple'a nerds living in 
 </figure>
 
 B. Root is an illustrator, 3d artist, and VR enthusiast living in the Pacific Northwest. He is also a rather small lion.
+
+<p style="text-align: center; text-indent: 0"><a href="https://roots.works" target="_blank">roots.works</a></p>
 
 -----
 
