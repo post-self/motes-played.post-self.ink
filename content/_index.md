@@ -25,7 +25,6 @@ img {
 > 
 > Motes played, because how could she not?
 
-<!--
 ### Content Notes
 
 This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](https://mitzvot.post-self.ink). It is strongly recommended that you read those works first. They may all be found [here](https://post-self.ink/cycle) as paperbacks, ebooks, and free to read in the browser. If you would prefer to jump right in, spoilers be damned, you can find a primer [here](/primer).
@@ -33,7 +32,6 @@ This book relies on the plots of The Post-Self Cycle, particularly [*Mitzvot*](h
 The tilde (~) is the punctuation mark of whimsy and on this I will not be swayed.
 
 Contains mentions of rough, but consensual sex with one vague description; blood; adult characters engaging with the world as children, unrelated to sex; themes of familial abuse.
--->
 
 ## Advance Praise
 
