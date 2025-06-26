@@ -41,6 +41,16 @@ Contains mentions of rough, but consensual sex with one vague description; blood
 
 -----
 
+## More Motes
+
+Along with *Motes Played,* there are a few bonus bits to read:
+
+* ["Milestones of Memory"](/milestones-of-memory) — Some musings from Beholden, A Finger Pointing, and Motes on what it might mean to grow up after so long, also co-written by the authors of *Motes Played.*
+* ["In it for the long haul"](/long-haul) — A short drabble by Madison Rye Progress, written to go along with a piece of fan art by <a href="https://www.tumblr.com/biddyfox" target="_blank">biddyfox</a>.
+* ["Thoughts on Motes"](/thoughts-on-motes) — An essay about the creation of *Motes Played* what Motes means to the authors, written by Madison Rye Progress.
+
+-----
+
 ## About the authors
 
 <figure>
