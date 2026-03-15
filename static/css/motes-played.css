@@ -129,6 +129,13 @@ summary {
     margin-top: 1rem;
     cursor: pointer;
 }
+
+.works dt {
+    background: linear-gradient(135deg, transparent 0.5rem, rgba(127, 127, 127, 0.2) 0) top left;
+}
+.works dd {
+    background: linear-gradient(315deg, transparent 0.5rem, rgba(127, 127, 127, 0.1) 0) bottom right;
+}
     
 @media only screen and (max-width: 960px) {
     .carousel nav {
