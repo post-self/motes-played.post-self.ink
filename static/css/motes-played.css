@@ -35,7 +35,7 @@ ul {
     list-style-type: revert;
     padding-left: 2rem;
 }
-hr::before {
+main hr::before {
     content: '✨';
     filter: grayscale(100%) brightness(30%);
     font-family: "Gotu";
